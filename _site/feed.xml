@@ -6,8 +6,8 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-us</language>
-    <pubDate>Tue, 23 Apr 2019 14:44:30 +0100</pubDate>
-    <lastBuildDate>Tue, 23 Apr 2019 14:44:30 +0100</lastBuildDate>
+    <pubDate>Tue, 23 Apr 2019 14:55:56 +0100</pubDate>
+    <lastBuildDate>Tue, 23 Apr 2019 14:55:56 +0100</lastBuildDate>
 
     
       <item>
@@ -20,7 +20,7 @@
 &lt;link rel=&quot;stylesheet&quot; href=&quot;/assets/css/trackswitch.min.css&quot; /&gt;
 
 
-Website accompanying results presented in the &lt;a href=&quot;&quot;&gt;paper&lt;/a&gt; &quot;Rhythmic and Timbral Transformations through Drum Translation&quot; for the International Conference on Digital Audio Effects 2018. We present 20 transformation pairs used in rhythmic evaluation of our system (Section 3.1 in the paper). The results are presented thanks to &lt;a href=&quot;https://audiolabs.github.io/trackswitch.js/&quot;&gt;Trackswitch.js&lt;/a&gt; audio player by Werner et al. (2017).
+Website accompanying results presented in the &lt;a href=&quot;&quot;&gt;paper&lt;/a&gt; &quot;Rhythmic and Timbral Transformations through Drum Translation&quot; for the International Conference on Digital Audio Effects 2019. We present 20 transformation pairs used in rhythmic evaluation of our system (Section 3.1 in the paper). The results are presented thanks to &lt;a href=&quot;https://audiolabs.github.io/trackswitch.js/&quot;&gt;Trackswitch.js&lt;/a&gt; audio player by Werner et al. (2017).
 
 
 &lt;!-- track 1  --&gt;
