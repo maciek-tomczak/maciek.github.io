@@ -6,13 +6,13 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-us</language>
-    <pubDate>Tue, 23 Apr 2019 14:55:56 +0100</pubDate>
-    <lastBuildDate>Tue, 23 Apr 2019 14:55:56 +0100</lastBuildDate>
+    <pubDate>Fri, 21 Jun 2019 22:47:45 +0100</pubDate>
+    <lastBuildDate>Fri, 21 Jun 2019 22:47:45 +0100</lastBuildDate>
 
     
       <item>
-        <title>Rhythmic and Timbral Transformations through Drum Translation</title>
-        <link>http://localhost:4000/Rhythmic-and-Timbral-Transformations-through-Drum-Translation</link>
+        <title>Drum Translation for Timbral and Rhythmic Transformation</title>
+        <link>http://localhost:4000/Drum-Translation-for-Timbral-and-Rhythmic-Transformation</link>
         <pubDate>Fri, 12 Apr 2019 00:00:00 +0100</pubDate>
         <author></author>
         <description>&lt;link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css' /&gt;
@@ -20,7 +20,7 @@
 &lt;link rel=&quot;stylesheet&quot; href=&quot;/assets/css/trackswitch.min.css&quot; /&gt;
 
 
-Website accompanying results presented in the &lt;a href=&quot;&quot;&gt;paper&lt;/a&gt; &quot;Rhythmic and Timbral Transformations through Drum Translation&quot; for the International Conference on Digital Audio Effects 2019. We present 20 transformation pairs used in rhythmic evaluation of our system (Section 3.1 in the paper). The results are presented thanks to &lt;a href=&quot;https://audiolabs.github.io/trackswitch.js/&quot;&gt;Trackswitch.js&lt;/a&gt; audio player by Werner et al. (2017).
+Website accompanying results presented in the &lt;a href=&quot;&quot;&gt;paper&lt;/a&gt; &quot;Drum Translation for Timbral and Rhythmic Transformation&quot; for the International Conference on Digital Audio Effects 2019. We present 20 transformation pairs used in rhythmic evaluation of our system (Sections 3.2 and 4.1 in the paper). The results are presented thanks to &lt;a href=&quot;https://audiolabs.github.io/trackswitch.js/&quot;&gt;Trackswitch.js&lt;/a&gt; audio player by Werner et al. (2017).
 
 
 &lt;!-- track 1  --&gt;
@@ -292,7 +292,7 @@ Website accompanying results presented in the &lt;a href=&quot;&quot;&gt;paper&l
 &lt;link rel=&quot;stylesheet&quot; href=&quot;/assets/css/trackswitch.min.css&quot; /&gt;
 
 
-Website accompanying results presented in the &lt;a href=&quot;https://ant-s4.unibw-hamburg.de/dafx/paper-archive/2018/papers/DAFx2018_paper_48.pdf&quot;&gt;paper&lt;/a&gt; &quot;Audio Style Transfer with Rhythmic Constraints&quot; for the International Conference on Digital Audio Effects 2018. We present 15 transformation pairs tested with 3 different loss terms L1, L2 and L3 defined in the paper, as well as, several additional AST transformations. In addition, transformations acquired with default parameters from audio style transfer (AST) approaches by Barry et al. (2018), Mital (2017) and Ulyanov et al. (Ulyanov 2016) are included with the results. Inputs A and B refer to terms &lt;i&gt;content&lt;/i&gt; and &lt;i&gt;style&lt;/i&gt; used by the authors of the compared papers. The results are presented thanks to &lt;a href=&quot;https://audiolabs.github.io/trackswitch.js/&quot;&gt;Trackswitch.js&lt;/a&gt; audio player by Werner et al. (2017).
+Website accompanying results presented in the &lt;a href=&quot;https://ant-s4.unibw-hamburg.de/dafx/paper-archive/2018/papers/DAFx2018_paper_48.pdf&quot;&gt;paper&lt;/a&gt; &quot;Audio Style Transfer with Rhythmic Constraints&quot; for the International Conference on Digital Audio Effects 2018. We present 15 transformation pairs tested with 3 different loss terms L1, L2 and L3 defined in the paper, as well as, several additional AST transformations. In addition, transformations acquired with default parameters from audio style transfer (AST) approaches by Barry et al. (2018), Mital (2017) and Ulyanov et al. (2016) are included with the results. Inputs A and B refer to terms &lt;i&gt;content&lt;/i&gt; and &lt;i&gt;style&lt;/i&gt; used by the authors of the compared papers. The results are presented thanks to &lt;a href=&quot;https://audiolabs.github.io/trackswitch.js/&quot;&gt;Trackswitch.js&lt;/a&gt; audio player by Werner et al. (2017).
 
 &lt;!-- track 1  --&gt;
 &lt;div class=&quot;player&quot;&gt;
