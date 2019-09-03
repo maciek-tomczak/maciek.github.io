@@ -6,8 +6,8 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-us</language>
-    <pubDate>Fri, 21 Jun 2019 22:47:45 +0100</pubDate>
-    <lastBuildDate>Fri, 21 Jun 2019 22:47:45 +0100</lastBuildDate>
+    <pubDate>Tue, 03 Sep 2019 07:40:12 +0100</pubDate>
+    <lastBuildDate>Tue, 03 Sep 2019 07:40:12 +0100</lastBuildDate>
 
     
       <item>
@@ -20,248 +20,337 @@
 &lt;link rel=&quot;stylesheet&quot; href=&quot;/assets/css/trackswitch.min.css&quot; /&gt;
 
 
-Website accompanying results presented in the &lt;a href=&quot;&quot;&gt;paper&lt;/a&gt; &quot;Drum Translation for Timbral and Rhythmic Transformation&quot; for the International Conference on Digital Audio Effects 2019. We present 20 transformation pairs used in rhythmic evaluation of our system (Sections 3.2 and 4.1 in the paper). The results are presented thanks to &lt;a href=&quot;https://audiolabs.github.io/trackswitch.js/&quot;&gt;Trackswitch.js&lt;/a&gt; audio player by Werner et al. (2017).
+Website accompanying results presented in the &lt;a href=&quot;http://dafx2019.bcu.ac.uk/papers/DAFx2019_paper_25.pdf&quot;&gt;paper&lt;/a&gt; &quot;Drum Translation for Timbral and Rhythmic Transformation&quot; for the International Conference on Digital Audio Effects 2019.
+&lt;br&gt;
+&lt;br&gt;
+Audio examples include:
+&lt;ul&gt;
+&lt;li&gt;6 transformations created with the proposed automatic drum translation system&lt;/li&gt;
+&lt;li&gt;20 transformation pairs used in rhythmic evaluation of the system (Sections 3.2 and 4.1 in the &lt;a href=&quot;http://dafx2019.bcu.ac.uk/papers/DAFx2019_paper_25.pdf&quot;&gt;paper&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
 
+&lt;img src=&quot;./assets/images/adt-dt-full2.png&quot; alt=&quot;Figure showing ADT Drum Translation&quot; title=&quot;ADT Drum Translation&quot;&gt;
+&lt;br&gt;
+Figure 1: Automatic drum translation process.
+&lt;br&gt;&lt;br&gt;
+
+&lt;h2&gt;Audio Examples&lt;/h3&gt;
+The audio examples are presented thanks to &lt;a href=&quot;https://audiolabs.github.io/trackswitch.js/&quot;&gt;Trackswitch.js&lt;/a&gt; audio player by [2].
+
+&lt;div class=&quot;player&quot;&gt;
+  &lt;p&gt;
+    Automatic drum translation 1/6
+  &lt;/p&gt;
+  &lt;ts-track title=&quot;Input&quot;&gt;
+    &lt;ts-source src=&quot;./audio/DAFx19_rhythm/adt-dt/src/src1.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
+  &lt;/ts-track&gt;
+  &lt;ts-track title=&quot;Drum Translation&quot;&gt;
+    &lt;ts-source src=&quot;./audio/DAFx19_rhythm/adt-dt/redrummings/redrumming1.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
+  &lt;/ts-track&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;player&quot;&gt;
+  &lt;p&gt;
+    Automatic drum translation 2/6
+  &lt;/p&gt;
+  &lt;ts-track title=&quot;Input&quot;&gt;
+    &lt;ts-source src=&quot;./audio/DAFx19_rhythm/adt-dt/src/src2.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
+  &lt;/ts-track&gt;
+  &lt;ts-track title=&quot;Drum Translation&quot;&gt;
+    &lt;ts-source src=&quot;./audio/DAFx19_rhythm/adt-dt/redrummings/redrumming2.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
+  &lt;/ts-track&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;player&quot;&gt;
+  &lt;p&gt;
+    Automatic drum translation 3/6
+  &lt;/p&gt;
+  &lt;ts-track title=&quot;Input&quot;&gt;
+    &lt;ts-source src=&quot;./audio/DAFx19_rhythm/adt-dt/src/src3.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
+  &lt;/ts-track&gt;
+  &lt;ts-track title=&quot;Drum Translation&quot;&gt;
+    &lt;ts-source src=&quot;./audio/DAFx19_rhythm/adt-dt/redrummings/redrumming3.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
+  &lt;/ts-track&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;player&quot;&gt;
+  &lt;p&gt;
+    Automatic drum translation 4/6
+  &lt;/p&gt;
+  &lt;ts-track title=&quot;Input&quot;&gt;
+    &lt;ts-source src=&quot;./audio/DAFx19_rhythm/adt-dt/src/src4.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
+  &lt;/ts-track&gt;
+  &lt;ts-track title=&quot;Drum Translation&quot;&gt;
+    &lt;ts-source src=&quot;./audio/DAFx19_rhythm/adt-dt/redrummings/redrumming4.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
+  &lt;/ts-track&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;player&quot;&gt;
+  &lt;p&gt;
+    Automatic drum translation 5/6
+  &lt;/p&gt;
+  &lt;ts-track title=&quot;Input&quot;&gt;
+    &lt;ts-source src=&quot;./audio/DAFx19_rhythm/adt-dt/src/src5.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
+  &lt;/ts-track&gt;
+  &lt;ts-track title=&quot;Drum Translation&quot;&gt;
+    &lt;ts-source src=&quot;./audio/DAFx19_rhythm/adt-dt/redrummings/redrumming5.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
+  &lt;/ts-track&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;player&quot;&gt;
+  &lt;p&gt;
+    Automatic drum translation 6/6
+  &lt;/p&gt;
+  &lt;ts-track title=&quot;Input&quot;&gt;
+    &lt;ts-source src=&quot;./audio/DAFx19_rhythm/adt-dt/src/src6.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
+  &lt;/ts-track&gt;
+  &lt;ts-track title=&quot;Drum Translation&quot;&gt;
+    &lt;ts-source src=&quot;./audio/DAFx19_rhythm/adt-dt/redrummings/redrumming6.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
+  &lt;/ts-track&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+&lt;h2&gt;Translations used in Rhythmic Evaluation (see &lt;a href=&quot;http://dafx2019.bcu.ac.uk/papers/DAFx2019_paper_25.pdf&quot;&gt;paper&lt;/a&gt;)&lt;/h2&gt;
 
 &lt;!-- track 1  --&gt;
 &lt;div class=&quot;player&quot;&gt;
-    &lt;p&gt;
-        Transformation 1
-    &lt;/p&gt;
-    &lt;ts-track title=&quot;Input&quot;&gt;
-        &lt;ts-source src=&quot;./audio/DAFx19_rhythm/input/source16.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
-    &lt;/ts-track&gt;
-    &lt;ts-track title=&quot;Drum Translation&quot;&gt;
-        &lt;ts-source src=&quot;./audio/DAFx19_rhythm/output/translation16.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
-    &lt;/ts-track&gt;
+  &lt;p&gt;
+    Drum translation 1/20
+  &lt;/p&gt;
+  &lt;ts-track title=&quot;Input&quot;&gt;
+    &lt;ts-source src=&quot;./audio/DAFx19_rhythm/input/source16.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
+  &lt;/ts-track&gt;
+  &lt;ts-track title=&quot;Drum Translation&quot;&gt;
+    &lt;ts-source src=&quot;./audio/DAFx19_rhythm/output/translation16.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
+  &lt;/ts-track&gt;
 &lt;/div&gt;
 &lt;!-- track 2  --&gt;
 &lt;div class=&quot;player&quot;&gt;
-    &lt;p&gt;
-        Transformation 2
-    &lt;/p&gt;
-    &lt;ts-track title=&quot;Input&quot;&gt;
-        &lt;ts-source src=&quot;./audio/DAFx19_rhythm/input/source19.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
-    &lt;/ts-track&gt;
-    &lt;ts-track title=&quot;Drum Translation&quot;&gt;
-        &lt;ts-source src=&quot;./audio/DAFx19_rhythm/output/translation19.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
-    &lt;/ts-track&gt;
+  &lt;p&gt;
+    Drum translation 2/20
+  &lt;/p&gt;
+  &lt;ts-track title=&quot;Input&quot;&gt;
+    &lt;ts-source src=&quot;./audio/DAFx19_rhythm/input/source19.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
+  &lt;/ts-track&gt;
+  &lt;ts-track title=&quot;Drum Translation&quot;&gt;
+    &lt;ts-source src=&quot;./audio/DAFx19_rhythm/output/translation19.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
+  &lt;/ts-track&gt;
 &lt;/div&gt;
 &lt;!-- track 3  --&gt;
 &lt;div class=&quot;player&quot;&gt;
-    &lt;p&gt;
-        Transformation 3
-    &lt;/p&gt;
-    &lt;ts-track title=&quot;Input&quot;&gt;
-        &lt;ts-source src=&quot;./audio/DAFx19_rhythm/input/source15.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
-    &lt;/ts-track&gt;
-    &lt;ts-track title=&quot;Drum Translation&quot;&gt;
-        &lt;ts-source src=&quot;./audio/DAFx19_rhythm/output/translation15.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
-    &lt;/ts-track&gt;
+  &lt;p&gt;
+    Drum translation 3/20
+  &lt;/p&gt;
+  &lt;ts-track title=&quot;Input&quot;&gt;
+    &lt;ts-source src=&quot;./audio/DAFx19_rhythm/input/source15.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
+  &lt;/ts-track&gt;
+  &lt;ts-track title=&quot;Drum Translation&quot;&gt;
+    &lt;ts-source src=&quot;./audio/DAFx19_rhythm/output/translation15.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
+  &lt;/ts-track&gt;
 &lt;/div&gt;
 &lt;!-- track 4  --&gt;
 &lt;div class=&quot;player&quot;&gt;
-    &lt;p&gt;
-        Transformation 4
-    &lt;/p&gt;
-    &lt;ts-track title=&quot;Input&quot;&gt;
-        &lt;ts-source src=&quot;./audio/DAFx19_rhythm/input/source18.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
-    &lt;/ts-track&gt;
-    &lt;ts-track title=&quot;Drum Translation&quot;&gt;
-        &lt;ts-source src=&quot;./audio/DAFx19_rhythm/output/translation18.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
-    &lt;/ts-track&gt;
+  &lt;p&gt;
+    Drum translation 4/20
+  &lt;/p&gt;
+  &lt;ts-track title=&quot;Input&quot;&gt;
+    &lt;ts-source src=&quot;./audio/DAFx19_rhythm/input/source18.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
+  &lt;/ts-track&gt;
+  &lt;ts-track title=&quot;Drum Translation&quot;&gt;
+    &lt;ts-source src=&quot;./audio/DAFx19_rhythm/output/translation18.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
+  &lt;/ts-track&gt;
 &lt;/div&gt;
 &lt;!-- track 5  --&gt;
 &lt;div class=&quot;player&quot;&gt;
-    &lt;p&gt;
-        Transformation 5
-    &lt;/p&gt;
-    &lt;ts-track title=&quot;Input&quot;&gt;
-        &lt;ts-source src=&quot;./audio/DAFx19_rhythm/input/source14.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
-    &lt;/ts-track&gt;
-    &lt;ts-track title=&quot;Drum Translation&quot;&gt;
-        &lt;ts-source src=&quot;./audio/DAFx19_rhythm/output/translation14.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
-    &lt;/ts-track&gt;
+  &lt;p&gt;
+    Drum translation 5/20
+  &lt;/p&gt;
+  &lt;ts-track title=&quot;Input&quot;&gt;
+    &lt;ts-source src=&quot;./audio/DAFx19_rhythm/input/source14.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
+  &lt;/ts-track&gt;
+  &lt;ts-track title=&quot;Drum Translation&quot;&gt;
+    &lt;ts-source src=&quot;./audio/DAFx19_rhythm/output/translation14.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
+  &lt;/ts-track&gt;
 &lt;/div&gt;
 &lt;!-- track 6  --&gt;
 &lt;div class=&quot;player&quot;&gt;
-    &lt;p&gt;
-        Transformation 6
-    &lt;/p&gt;
-    &lt;ts-track title=&quot;Input&quot;&gt;
-        &lt;ts-source src=&quot;./audio/DAFx19_rhythm/input/source13.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
-    &lt;/ts-track&gt;
-    &lt;ts-track title=&quot;Drum Translation&quot;&gt;
-        &lt;ts-source src=&quot;./audio/DAFx19_rhythm/output/translation13.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
-    &lt;/ts-track&gt;
+  &lt;p&gt;
+    Drum translation 6/20
+  &lt;/p&gt;
+  &lt;ts-track title=&quot;Input&quot;&gt;
+    &lt;ts-source src=&quot;./audio/DAFx19_rhythm/input/source13.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
+  &lt;/ts-track&gt;
+  &lt;ts-track title=&quot;Drum Translation&quot;&gt;
+    &lt;ts-source src=&quot;./audio/DAFx19_rhythm/output/translation13.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
+  &lt;/ts-track&gt;
 &lt;/div&gt;
 &lt;!-- track 7  --&gt;
 &lt;div class=&quot;player&quot;&gt;
-    &lt;p&gt;
-        Transformation 7
-    &lt;/p&gt;
-    &lt;ts-track title=&quot;Input&quot;&gt;
-        &lt;ts-source src=&quot;./audio/DAFx19_rhythm/input/source10.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
-    &lt;/ts-track&gt;
-    &lt;ts-track title=&quot;Drum Translation&quot;&gt;
-        &lt;ts-source src=&quot;./audio/DAFx19_rhythm/output/translation10.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
-    &lt;/ts-track&gt;
+  &lt;p&gt;
+    Drum translation 7/20
+  &lt;/p&gt;
+  &lt;ts-track title=&quot;Input&quot;&gt;
+    &lt;ts-source src=&quot;./audio/DAFx19_rhythm/input/source10.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
+  &lt;/ts-track&gt;
+  &lt;ts-track title=&quot;Drum Translation&quot;&gt;
+    &lt;ts-source src=&quot;./audio/DAFx19_rhythm/output/translation10.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
+  &lt;/ts-track&gt;
 &lt;/div&gt;
 &lt;!-- track 8  --&gt;
 &lt;div class=&quot;player&quot;&gt;
-    &lt;p&gt;
-        Transformation 8
-    &lt;/p&gt;
-    &lt;ts-track title=&quot;Input&quot;&gt;
-        &lt;ts-source src=&quot;./audio/DAFx19_rhythm/input/source1.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
-    &lt;/ts-track&gt;
-    &lt;ts-track title=&quot;Drum Translation&quot;&gt;
-        &lt;ts-source src=&quot;./audio/DAFx19_rhythm/output/translation1.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
-    &lt;/ts-track&gt;
+  &lt;p&gt;
+    Drum translation 8/20
+  &lt;/p&gt;
+  &lt;ts-track title=&quot;Input&quot;&gt;
+    &lt;ts-source src=&quot;./audio/DAFx19_rhythm/input/source1.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
+  &lt;/ts-track&gt;
+  &lt;ts-track title=&quot;Drum Translation&quot;&gt;
+    &lt;ts-source src=&quot;./audio/DAFx19_rhythm/output/translation1.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
+  &lt;/ts-track&gt;
 &lt;/div&gt;
 &lt;!-- track 9  --&gt;
 &lt;div class=&quot;player&quot;&gt;
-    &lt;p&gt;
-        Transformation 9
-    &lt;/p&gt;
-    &lt;ts-track title=&quot;Input&quot;&gt;
-        &lt;ts-source src=&quot;./audio/DAFx19_rhythm/input/source11.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
-    &lt;/ts-track&gt;
-    &lt;ts-track title=&quot;Drum Translation&quot;&gt;
-        &lt;ts-source src=&quot;./audio/DAFx19_rhythm/output/translation11.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
-    &lt;/ts-track&gt;
+  &lt;p&gt;
+    Drum translation 9/20
+  &lt;/p&gt;
+  &lt;ts-track title=&quot;Input&quot;&gt;
+    &lt;ts-source src=&quot;./audio/DAFx19_rhythm/input/source11.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
+  &lt;/ts-track&gt;
+  &lt;ts-track title=&quot;Drum Translation&quot;&gt;
+    &lt;ts-source src=&quot;./audio/DAFx19_rhythm/output/translation11.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
+  &lt;/ts-track&gt;
 &lt;/div&gt;
 &lt;!-- track 10  --&gt;
 &lt;div class=&quot;player&quot;&gt;
-    &lt;p&gt;
-        Transformation 10
-    &lt;/p&gt;
-    &lt;ts-track title=&quot;Input&quot;&gt;
-        &lt;ts-source src=&quot;./audio/DAFx19_rhythm/input/source12.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
-    &lt;/ts-track&gt;
-    &lt;ts-track title=&quot;Drum Translation&quot;&gt;
-        &lt;ts-source src=&quot;./audio/DAFx19_rhythm/output/translation12.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
-    &lt;/ts-track&gt;
+  &lt;p&gt;
+    Drum translation 10/20
+  &lt;/p&gt;
+  &lt;ts-track title=&quot;Input&quot;&gt;
+    &lt;ts-source src=&quot;./audio/DAFx19_rhythm/input/source12.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
+  &lt;/ts-track&gt;
+  &lt;ts-track title=&quot;Drum Translation&quot;&gt;
+    &lt;ts-source src=&quot;./audio/DAFx19_rhythm/output/translation12.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
+  &lt;/ts-track&gt;
 &lt;/div&gt;
 &lt;!-- track 11  --&gt;
 &lt;div class=&quot;player&quot;&gt;
-    &lt;p&gt;
-        Transformation 11
-    &lt;/p&gt;
-    &lt;ts-track title=&quot;Input&quot;&gt;
-        &lt;ts-source src=&quot;./audio/DAFx19_rhythm/input/source17.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
-    &lt;/ts-track&gt;
-    &lt;ts-track title=&quot;Drum Translation&quot;&gt;
-        &lt;ts-source src=&quot;./audio/DAFx19_rhythm/output/translation17.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
-    &lt;/ts-track&gt;
+  &lt;p&gt;
+    Drum translation 11/20
+  &lt;/p&gt;
+  &lt;ts-track title=&quot;Input&quot;&gt;
+    &lt;ts-source src=&quot;./audio/DAFx19_rhythm/input/source17.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
+  &lt;/ts-track&gt;
+  &lt;ts-track title=&quot;Drum Translation&quot;&gt;
+    &lt;ts-source src=&quot;./audio/DAFx19_rhythm/output/translation17.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
+  &lt;/ts-track&gt;
 &lt;/div&gt;
 &lt;!-- track 12  --&gt;
 &lt;div class=&quot;player&quot;&gt;
-    &lt;p&gt;
-        Transformation 12
-    &lt;/p&gt;
-    &lt;ts-track title=&quot;Input&quot;&gt;
-        &lt;ts-source src=&quot;./audio/DAFx19_rhythm/input/source2.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
-    &lt;/ts-track&gt;
-    &lt;ts-track title=&quot;Drum Translation&quot;&gt;
-        &lt;ts-source src=&quot;./audio/DAFx19_rhythm/output/translation2.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
-    &lt;/ts-track&gt;
+  &lt;p&gt;
+    Drum translation 12/20
+  &lt;/p&gt;
+  &lt;ts-track title=&quot;Input&quot;&gt;
+    &lt;ts-source src=&quot;./audio/DAFx19_rhythm/input/source2.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
+  &lt;/ts-track&gt;
+  &lt;ts-track title=&quot;Drum Translation&quot;&gt;
+    &lt;ts-source src=&quot;./audio/DAFx19_rhythm/output/translation2.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
+  &lt;/ts-track&gt;
 &lt;/div&gt;
 &lt;!-- track 13  --&gt;
 &lt;div class=&quot;player&quot;&gt;
-    &lt;p&gt;
-        Transformation 13
-    &lt;/p&gt;
-    &lt;ts-track title=&quot;Input&quot;&gt;
-        &lt;ts-source src=&quot;./audio/DAFx19_rhythm/input/source20.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
-    &lt;/ts-track&gt;
-    &lt;ts-track title=&quot;Drum Translation&quot;&gt;
-        &lt;ts-source src=&quot;./audio/DAFx19_rhythm/output/translation20.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
-    &lt;/ts-track&gt;
+  &lt;p&gt;
+    Drum translation 13/20
+  &lt;/p&gt;
+  &lt;ts-track title=&quot;Input&quot;&gt;
+    &lt;ts-source src=&quot;./audio/DAFx19_rhythm/input/source20.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
+  &lt;/ts-track&gt;
+  &lt;ts-track title=&quot;Drum Translation&quot;&gt;
+    &lt;ts-source src=&quot;./audio/DAFx19_rhythm/output/translation20.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
+  &lt;/ts-track&gt;
 &lt;/div&gt;
 &lt;!-- track 14  --&gt;
 &lt;div class=&quot;player&quot;&gt;
-    &lt;p&gt;
-        Transformation 14
-    &lt;/p&gt;
-    &lt;ts-track title=&quot;Input&quot;&gt;
-        &lt;ts-source src=&quot;./audio/DAFx19_rhythm/input/source3.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
-    &lt;/ts-track&gt;
-    &lt;ts-track title=&quot;Drum Translation&quot;&gt;
-        &lt;ts-source src=&quot;./audio/DAFx19_rhythm/output/translation3.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
-    &lt;/ts-track&gt;
+  &lt;p&gt;
+    Drum translation 14/20
+  &lt;/p&gt;
+  &lt;ts-track title=&quot;Input&quot;&gt;
+    &lt;ts-source src=&quot;./audio/DAFx19_rhythm/input/source3.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
+  &lt;/ts-track&gt;
+  &lt;ts-track title=&quot;Drum Translation&quot;&gt;
+    &lt;ts-source src=&quot;./audio/DAFx19_rhythm/output/translation3.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
+  &lt;/ts-track&gt;
 &lt;/div&gt;
 &lt;!-- track 15  --&gt;
 &lt;div class=&quot;player&quot;&gt;
-    &lt;p&gt;
-        Transformation 15
-    &lt;/p&gt;
-    &lt;ts-track title=&quot;Input&quot;&gt;
-        &lt;ts-source src=&quot;./audio/DAFx19_rhythm/input/source4.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
-    &lt;/ts-track&gt;
-    &lt;ts-track title=&quot;Drum Translation&quot;&gt;
-        &lt;ts-source src=&quot;./audio/DAFx19_rhythm/output/translation4.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
-    &lt;/ts-track&gt;
+  &lt;p&gt;
+    Drum translation 15/20
+  &lt;/p&gt;
+  &lt;ts-track title=&quot;Input&quot;&gt;
+    &lt;ts-source src=&quot;./audio/DAFx19_rhythm/input/source4.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
+  &lt;/ts-track&gt;
+  &lt;ts-track title=&quot;Drum Translation&quot;&gt;
+    &lt;ts-source src=&quot;./audio/DAFx19_rhythm/output/translation4.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
+  &lt;/ts-track&gt;
 &lt;/div&gt;
 &lt;!-- track 16  --&gt;
 &lt;div class=&quot;player&quot;&gt;
-    &lt;p&gt;
-        Transformation 16
-    &lt;/p&gt;
-    &lt;ts-track title=&quot;Input&quot;&gt;
-        &lt;ts-source src=&quot;./audio/DAFx19_rhythm/input/source5.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
-    &lt;/ts-track&gt;
-    &lt;ts-track title=&quot;Drum Translation&quot;&gt;
-        &lt;ts-source src=&quot;./audio/DAFx19_rhythm/output/translation5.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
-    &lt;/ts-track&gt;
+  &lt;p&gt;
+    Drum translation 16/20
+  &lt;/p&gt;
+  &lt;ts-track title=&quot;Input&quot;&gt;
+    &lt;ts-source src=&quot;./audio/DAFx19_rhythm/input/source5.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
+  &lt;/ts-track&gt;
+  &lt;ts-track title=&quot;Drum Translation&quot;&gt;
+    &lt;ts-source src=&quot;./audio/DAFx19_rhythm/output/translation5.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
+  &lt;/ts-track&gt;
 &lt;/div&gt;
 &lt;!-- track 17  --&gt;
 &lt;div class=&quot;player&quot;&gt;
-    &lt;p&gt;
-        Transformation 17
-    &lt;/p&gt;
-    &lt;ts-track title=&quot;Input&quot;&gt;
-        &lt;ts-source src=&quot;./audio/DAFx19_rhythm/input/source6.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
-    &lt;/ts-track&gt;
-    &lt;ts-track title=&quot;Drum Translation&quot;&gt;
-        &lt;ts-source src=&quot;./audio/DAFx19_rhythm/output/translation6.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
-    &lt;/ts-track&gt;
+  &lt;p&gt;
+    Drum translation 17/20
+  &lt;/p&gt;
+  &lt;ts-track title=&quot;Input&quot;&gt;
+    &lt;ts-source src=&quot;./audio/DAFx19_rhythm/input/source6.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
+  &lt;/ts-track&gt;
+  &lt;ts-track title=&quot;Drum Translation&quot;&gt;
+    &lt;ts-source src=&quot;./audio/DAFx19_rhythm/output/translation6.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
+  &lt;/ts-track&gt;
 &lt;/div&gt;
 &lt;!-- track 18  --&gt;
 &lt;div class=&quot;player&quot;&gt;
-    &lt;p&gt;
-        Transformation 18
-    &lt;/p&gt;
-    &lt;ts-track title=&quot;Input&quot;&gt;
-        &lt;ts-source src=&quot;./audio/DAFx19_rhythm/input/source7.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
-    &lt;/ts-track&gt;
-    &lt;ts-track title=&quot;Drum Translation&quot;&gt;
-        &lt;ts-source src=&quot;./audio/DAFx19_rhythm/output/translation7.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
-    &lt;/ts-track&gt;
+  &lt;p&gt;
+    Drum translation 18/20
+  &lt;/p&gt;
+  &lt;ts-track title=&quot;Input&quot;&gt;
+    &lt;ts-source src=&quot;./audio/DAFx19_rhythm/input/source7.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
+  &lt;/ts-track&gt;
+  &lt;ts-track title=&quot;Drum Translation&quot;&gt;
+    &lt;ts-source src=&quot;./audio/DAFx19_rhythm/output/translation7.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
+  &lt;/ts-track&gt;
 &lt;/div&gt;
 &lt;!-- track 19  --&gt;
 &lt;div class=&quot;player&quot;&gt;
-    &lt;p&gt;
-        Transformation 19
-    &lt;/p&gt;
-    &lt;ts-track title=&quot;Input&quot;&gt;
-        &lt;ts-source src=&quot;./audio/DAFx19_rhythm/input/source8.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
-    &lt;/ts-track&gt;
-    &lt;ts-track title=&quot;Drum Translation&quot;&gt;
-        &lt;ts-source src=&quot;./audio/DAFx19_rhythm/output/translation8.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
-    &lt;/ts-track&gt;
+  &lt;p&gt;
+    Drum translation 19/20
+  &lt;/p&gt;
+  &lt;ts-track title=&quot;Input&quot;&gt;
+    &lt;ts-source src=&quot;./audio/DAFx19_rhythm/input/source8.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
+  &lt;/ts-track&gt;
+  &lt;ts-track title=&quot;Drum Translation&quot;&gt;
+    &lt;ts-source src=&quot;./audio/DAFx19_rhythm/output/translation8.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
+  &lt;/ts-track&gt;
 &lt;/div&gt;
 &lt;!-- track 20  --&gt;
 &lt;div class=&quot;player&quot;&gt;
-    &lt;p&gt;
-        Transformation 20
-    &lt;/p&gt;
-    &lt;ts-track title=&quot;Input&quot;&gt;
-        &lt;ts-source src=&quot;./audio/DAFx19_rhythm/input/source9.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
-    &lt;/ts-track&gt;
-    &lt;ts-track title=&quot;Drum Translation&quot;&gt;
-        &lt;ts-source src=&quot;./audio/DAFx19_rhythm/output/translation9.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
-    &lt;/ts-track&gt;
+  &lt;p&gt;
+    Drum translation 20/20
+  &lt;/p&gt;
+  &lt;ts-track title=&quot;Input&quot;&gt;
+    &lt;ts-source src=&quot;./audio/DAFx19_rhythm/input/source9.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
+  &lt;/ts-track&gt;
+  &lt;ts-track title=&quot;Drum Translation&quot;&gt;
+    &lt;ts-source src=&quot;./audio/DAFx19_rhythm/output/translation9.wav&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/ts-source&gt;
+  &lt;/ts-track&gt;
 &lt;/div&gt;
 
 
@@ -269,17 +358,24 @@ Website accompanying results presented in the &lt;a href=&quot;&quot;&gt;paper&l
 &lt;br&gt;
 &lt;strong&gt;References:&lt;/strong&gt;
 &lt;br&gt;
-1. Nils Werner, Stefan Balke, Fabian Stöter, Meinard Müller and Bernd Edler, &quot;Trackswitch.js: A Versatile Web-Based Audio Player for Presenting Scientifc Results,&quot; 2017, Available at: &lt;a href=&quot;https://audiolabs.github.io/trackswitch.js/&quot;&gt;https://audiolabs.github.io/trackswitch.js/&lt;/a&gt;.
-
+[1] Carl Southall, Ryan Stables, and Jason Hockman, “Automatic drum transcription using bi-directional recurrent neural networks,” in Proceedings of the International Society of Music Information Retrieval Conference, pp. 591–597, 2016, Available at: &lt;a href=&quot;https://github.com/CarlSouthall/ADTLib&quot;&gt;https://github.com/CarlSouthall/ADTLib/&lt;/a&gt;.
+&lt;br&gt;
+[2] Nils Werner, Stefan Balke, Fabian Stöter, Meinard Müller and Bernd Edler, &quot;Trackswitch.js: A Versatile Web-Based Audio Player for Presenting Scientifc Results,&quot; 2017, Available at: &lt;a
+  href=&quot;https://audiolabs.github.io/trackswitch.js/&quot;&gt;https://audiolabs.github.io/trackswitch.js/&lt;/a&gt;.
+&lt;br&gt;
 
 &lt;script src=&quot;https://cdn.rawgit.com/download/polymer-cdn/1.5.0/lib/webcomponentsjs/webcomponents-lite.min.js&quot;&gt;&lt;/script&gt;
 &lt;script src=&quot;https://code.jquery.com/jquery-3.2.1.min.js&quot; integrity=&quot;sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=&quot; crossorigin=&quot;anonymous&quot;&gt;&lt;/script&gt;
 &lt;script src=&quot;./assets/js/trackswitch.min.js&quot;&gt;&lt;/script&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
-    jQuery(document).ready(function() {
-        jQuery(&quot;.player&quot;).trackSwitch({ onlyradiosolo: true, repeat: true });
+  jQuery(document).ready(function() {
+    jQuery(&quot;.player&quot;).trackSwitch({
+      onlyradiosolo: true,
+      repeat: true
     });
-&lt;/script&gt;</description>
+  });
+&lt;/script&gt;
+</description>
       </item>
     
       <item>
