@@ -6,8 +6,8 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-us</language>
-    <pubDate>Tue, 03 Sep 2019 07:40:12 +0100</pubDate>
-    <lastBuildDate>Tue, 03 Sep 2019 07:40:12 +0100</lastBuildDate>
+    <pubDate>Mon, 09 Sep 2019 10:04:42 +0100</pubDate>
+    <lastBuildDate>Mon, 09 Sep 2019 10:04:42 +0100</lastBuildDate>
 
     
       <item>
@@ -19,8 +19,8 @@
 &lt;link href=&quot;https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css&quot; rel=&quot;stylesheet&quot; integrity=&quot;sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN&quot; crossorigin=&quot;anonymous&quot; /&gt;
 &lt;link rel=&quot;stylesheet&quot; href=&quot;/assets/css/trackswitch.min.css&quot; /&gt;
 
-
-Website accompanying results presented in the &lt;a href=&quot;http://dafx2019.bcu.ac.uk/papers/DAFx2019_paper_25.pdf&quot;&gt;paper&lt;/a&gt; &quot;Drum Translation for Timbral and Rhythmic Transformation&quot; for the International Conference on Digital Audio Effects 2019.
+dafx19-poster-final
+Website accompanying results presented in the &lt;a href=&quot;http://dafx2019.bcu.ac.uk/papers/DAFx2019_paper_25.pdf&quot;&gt;paper&lt;/a&gt; &quot;Drum Translation for Timbral and Rhythmic Transformation&quot; for the International Conference on Digital Audio Effects 2019. Poster available &lt;a href=&quot;./assets/images/dafx19-poster.pdf&quot;&gt;here&lt;/a&gt;.
 &lt;br&gt;
 &lt;br&gt;
 Audio examples include:
@@ -29,7 +29,7 @@ Audio examples include:
 &lt;li&gt;20 transformation pairs used in rhythmic evaluation of the system (Sections 3.2 and 4.1 in the &lt;a href=&quot;http://dafx2019.bcu.ac.uk/papers/DAFx2019_paper_25.pdf&quot;&gt;paper&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;img src=&quot;./assets/images/adt-dt-full2.png&quot; alt=&quot;Figure showing ADT Drum Translation&quot; title=&quot;ADT Drum Translation&quot;&gt;
+&lt;img src=&quot;./assets/images/adt-dt.png&quot; alt=&quot;Figure showing ADT Drum Translation&quot; title=&quot;ADT Drum Translation&quot;&gt;
 &lt;br&gt;
 Figure 1: Automatic drum translation process.
 &lt;br&gt;&lt;br&gt;
