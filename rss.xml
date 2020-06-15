@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Maciek Tomczak]]></title><description><![CDATA[Hi! I am Maciek and this site is accompanying work I like to do.]]></description><link>https://maciek-tomczak.github.io/maciek.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 15 Jun 2020 12:55:46 GMT</lastBuildDate><item><title><![CDATA[Drum Translation for Timbral and Rhythmic Transformation]]></title><description><![CDATA[Poster available here and paper here. Audio examples include: 6 transformations created with the proposed automatic drum translation system…]]></description><link>https://maciek-tomczak.github.io/maciek.github.io/Drum-Translation-for-Timbral-and-Rhythmic-Transformation/</link><guid isPermaLink="false">https://maciek-tomczak.github.io/maciek.github.io/Drum-Translation-for-Timbral-and-Rhythmic-Transformation/</guid><pubDate>Fri, 12 Apr 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Poster available &lt;a href=&quot;/01ed740c6adf9500c3f986d78f3f00cd/dafx19-poster.pdf&quot;&gt;here&lt;/a&gt; and paper &lt;a href=&quot;http://dafx2019.bcu.ac.uk/papers/DAFx2019_paper_25.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Maciek Tomczak]]></title><description><![CDATA[Hi! I am Maciek and this site is accompanying work I like to do.]]></description><link>https://maciek-tomczak.github.io/maciek.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 15 Jun 2020 13:25:41 GMT</lastBuildDate><item><title><![CDATA[Drum Translation for Timbral and Rhythmic Transformation]]></title><description><![CDATA[Poster available here and paper here. Audio examples include: 6 transformations created with the proposed automatic drum translation system…]]></description><link>https://maciek-tomczak.github.io/maciek.github.io/Drum-Translation-for-Timbral-and-Rhythmic-Transformation/</link><guid isPermaLink="false">https://maciek-tomczak.github.io/maciek.github.io/Drum-Translation-for-Timbral-and-Rhythmic-Transformation/</guid><pubDate>Fri, 12 Apr 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Poster available &lt;a href=&quot;/maciek.github.io/01ed740c6adf9500c3f986d78f3f00cd/dafx19-poster.pdf&quot;&gt;here&lt;/a&gt; and paper &lt;a href=&quot;http://dafx2019.bcu.ac.uk/papers/DAFx2019_paper_25.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Audio examples include:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;6 transformations created with the proposed automatic drum translation system&lt;/li&gt;
@@ -7,7 +7,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/1373263504e46c07bd10d5a05e5c8215/254b8/adt-dt.png&quot;
+    href=&quot;/maciek.github.io/static/1373263504e46c07bd10d5a05e5c8215/254b8/adt-dt.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -23,26 +23,26 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/1373263504e46c07bd10d5a05e5c8215/51a8e/adt-dt.webp 340w,
-/static/1373263504e46c07bd10d5a05e5c8215/713b7/adt-dt.webp 680w,
-/static/1373263504e46c07bd10d5a05e5c8215/6a980/adt-dt.webp 702w&quot;
+          srcset=&quot;/maciek.github.io/static/1373263504e46c07bd10d5a05e5c8215/51a8e/adt-dt.webp 340w,
+/maciek.github.io/static/1373263504e46c07bd10d5a05e5c8215/713b7/adt-dt.webp 680w,
+/maciek.github.io/static/1373263504e46c07bd10d5a05e5c8215/6a980/adt-dt.webp 702w&quot;
           sizes=&quot;(max-width: 702px) 100vw, 702px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/1373263504e46c07bd10d5a05e5c8215/ad208/adt-dt.png 340w,
-/static/1373263504e46c07bd10d5a05e5c8215/a5a26/adt-dt.png 680w,
-/static/1373263504e46c07bd10d5a05e5c8215/254b8/adt-dt.png 702w&quot;
+          srcset=&quot;/maciek.github.io/static/1373263504e46c07bd10d5a05e5c8215/ad208/adt-dt.png 340w,
+/maciek.github.io/static/1373263504e46c07bd10d5a05e5c8215/a5a26/adt-dt.png 680w,
+/maciek.github.io/static/1373263504e46c07bd10d5a05e5c8215/254b8/adt-dt.png 702w&quot;
           sizes=&quot;(max-width: 702px) 100vw, 702px&quot;
           type=&quot;image/png&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/1373263504e46c07bd10d5a05e5c8215/254b8/adt-dt.png&quot;
+          src=&quot;/maciek.github.io/static/1373263504e46c07bd10d5a05e5c8215/254b8/adt-dt.png&quot;
           alt=&quot;Automatic drum translation process&quot;
           title=&quot;&quot;
-          src=&quot;/static/1373263504e46c07bd10d5a05e5c8215/254b8/adt-dt.png&quot;
+          src=&quot;/maciek.github.io/static/1373263504e46c07bd10d5a05e5c8215/254b8/adt-dt.png&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -56,60 +56,60 @@
     &lt;figcaption&gt;Automatic drum translation 1/6&lt;/figcaption&gt;
 	&lt;figcaption&gt;Source recording (left) and translation output (right)&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/4ac83043c02dce755dc6f397ff858bde/src1.wav&quot;&gt;
+        src=&quot;/maciek.github.io/4ac83043c02dce755dc6f397ff858bde/src1.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;audio controls
-		src=&quot;/a3262d9c794bce3001b41d3d81817db7/redrumming1.wav&quot;&gt;
+		src=&quot;/maciek.github.io/a3262d9c794bce3001b41d3d81817db7/redrumming1.wav&quot;&gt;
 	&lt;/audio&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
     &lt;figcaption&gt;Automatic drum translation 2/6&lt;/figcaption&gt;
 	&lt;figcaption&gt;Source recording (left) and translation output (right)&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/caaeba4f5e8c88e3778153e4ec6222b5/src2.wav&quot;&gt;
+        src=&quot;/maciek.github.io/caaeba4f5e8c88e3778153e4ec6222b5/src2.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;audio controls
-		src=&quot;/7efe3860f616f03cb58cd4523bcdb014/redrumming2.wav&quot;&gt;
+		src=&quot;/maciek.github.io/7efe3860f616f03cb58cd4523bcdb014/redrumming2.wav&quot;&gt;
 	&lt;/audio&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
     &lt;figcaption&gt;Automatic drum translation 3/6&lt;/figcaption&gt;
 	&lt;figcaption&gt;Source recording (left) and translation output (right)&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/8fededcba583116d11a796d1f3305ca4/src3.wav&quot;&gt;
+        src=&quot;/maciek.github.io/8fededcba583116d11a796d1f3305ca4/src3.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;audio controls
-		src=&quot;/0dbac3a04f101d46efe891fa2a23a6ac/redrumming3.wav&quot;&gt;
+		src=&quot;/maciek.github.io/0dbac3a04f101d46efe891fa2a23a6ac/redrumming3.wav&quot;&gt;
 	&lt;/audio&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
     &lt;figcaption&gt;Automatic drum translation 4/6&lt;/figcaption&gt;
 	&lt;figcaption&gt;Source recording (left) and translation output (right)&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/942237f1a1c5b63b7ec1b6241ece55b9/src4.wav&quot;&gt;
+        src=&quot;/maciek.github.io/942237f1a1c5b63b7ec1b6241ece55b9/src4.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;audio controls
-		src=&quot;/3bf068d0c5e479559d82b5cb211286d2/redrumming4.wav&quot;&gt;
+		src=&quot;/maciek.github.io/3bf068d0c5e479559d82b5cb211286d2/redrumming4.wav&quot;&gt;
 	&lt;/audio&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
     &lt;figcaption&gt;Automatic drum translation 5/6&lt;/figcaption&gt;
 	&lt;figcaption&gt;Source recording (left) and translation output (right)&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/392daefb9b572567f5772a8850fc7cc2/src5.wav&quot;&gt;
+        src=&quot;/maciek.github.io/392daefb9b572567f5772a8850fc7cc2/src5.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;audio controls
-		src=&quot;/e3e9a9ece600df1338437054c8802ac3/redrumming5.wav&quot;&gt;
+		src=&quot;/maciek.github.io/e3e9a9ece600df1338437054c8802ac3/redrumming5.wav&quot;&gt;
 	&lt;/audio&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
     &lt;figcaption&gt;Automatic drum translation 6/6&lt;/figcaption&gt;
 	&lt;figcaption&gt;Source recording (left) and translation output (right)&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/9a62622a3b7d3c45c424b9adeda1e428/src6.wav&quot;&gt;
+        src=&quot;/maciek.github.io/9a62622a3b7d3c45c424b9adeda1e428/src6.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;audio controls
-		src=&quot;/4a2e80709f072c23b68347360cfeea02/redrumming6.wav&quot;&gt;
+		src=&quot;/maciek.github.io/4a2e80709f072c23b68347360cfeea02/redrumming6.wav&quot;&gt;
 	&lt;/audio&gt;
 &lt;/figure&gt;
 &lt;/center&gt;
@@ -119,200 +119,200 @@
     &lt;figcaption&gt;Drum Translation 1/20&lt;/figcaption&gt;
 	&lt;figcaption&gt;Source recording (left) and translation output (right)&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/7964974da4f06fae47c6e7b26fb8b934/source16.wav&quot;&gt;
+        src=&quot;/maciek.github.io/7964974da4f06fae47c6e7b26fb8b934/source16.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;audio controls
-		src=&quot;/bac90e40965f6dd3ec5a093dbabca40c/translation16.wav&quot;&gt;
+		src=&quot;/maciek.github.io/bac90e40965f6dd3ec5a093dbabca40c/translation16.wav&quot;&gt;
 	&lt;/audio&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
     &lt;figcaption&gt;Drum Translation 2/20&lt;/figcaption&gt;
 	&lt;figcaption&gt;Source recording (left) and translation output (right)&lt;/figcaption&gt;
 	&lt;audio controls
-        src=&quot;/a8df62fbdf8780164d7c180fcbc976b2/source19.wav&quot;&gt;
+        src=&quot;/maciek.github.io/a8df62fbdf8780164d7c180fcbc976b2/source19.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;audio controls
-		src=&quot;/2a0d1aa5e7b10ae21afb11cc87fa134e/translation19.wav&quot;&gt;
+		src=&quot;/maciek.github.io/2a0d1aa5e7b10ae21afb11cc87fa134e/translation19.wav&quot;&gt;
 	&lt;/audio&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
     &lt;figcaption&gt;Drum Translation 3/20&lt;/figcaption&gt;
 	&lt;figcaption&gt;Source recording (left) and translation output (right)&lt;/figcaption&gt;
 	&lt;audio controls
-        src=&quot;/9a629d4ddff6edba7d19c2b8ac101cd1/source15.wav&quot;&gt;
+        src=&quot;/maciek.github.io/9a629d4ddff6edba7d19c2b8ac101cd1/source15.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;audio controls
-		src=&quot;/0cc395fe5958d81b6c8aa0c840165bf2/translation15.wav&quot;&gt;
+		src=&quot;/maciek.github.io/0cc395fe5958d81b6c8aa0c840165bf2/translation15.wav&quot;&gt;
 	&lt;/audio&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
     &lt;figcaption&gt;Drum Translation 4/20&lt;/figcaption&gt;
 	&lt;figcaption&gt;Source recording (left) and translation output (right)&lt;/figcaption&gt;
 	&lt;audio controls
-        src=&quot;/ebf67e7e3a28ee6ce13c7631de102590/source18.wav&quot;&gt;
+        src=&quot;/maciek.github.io/ebf67e7e3a28ee6ce13c7631de102590/source18.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;audio controls
-		src=&quot;/0f8dff80a71a3160ae1a2f4f63bb971e/translation18.wav&quot;&gt;
+		src=&quot;/maciek.github.io/0f8dff80a71a3160ae1a2f4f63bb971e/translation18.wav&quot;&gt;
 	&lt;/audio&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
     &lt;figcaption&gt;Drum Translation 5/20&lt;/figcaption&gt;
 	&lt;figcaption&gt;Source recording (left) and translation output (right)&lt;/figcaption&gt;
 	&lt;audio controls
-        src=&quot;/01942a9c4313d99b36ffb9290e542bf2/source14.wav&quot;&gt;
+        src=&quot;/maciek.github.io/01942a9c4313d99b36ffb9290e542bf2/source14.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;audio controls
-		src=&quot;/80ad11665ad4e9a3db667f0c3c1c9561/translation14.wav&quot;&gt;
+		src=&quot;/maciek.github.io/80ad11665ad4e9a3db667f0c3c1c9561/translation14.wav&quot;&gt;
 	&lt;/audio&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
     &lt;figcaption&gt;Drum Translation 6/20&lt;/figcaption&gt;
 	&lt;figcaption&gt;Source recording (left) and translation output (right)&lt;/figcaption&gt;
 	&lt;audio controls
-        src=&quot;/1cda155f34e38c585a5f3ba155cf4535/source13.wav&quot;&gt;
+        src=&quot;/maciek.github.io/1cda155f34e38c585a5f3ba155cf4535/source13.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;audio controls
-		src=&quot;/4802eb9ea4859fb7a817574a03680ab1/translation13.wav&quot;&gt;
+		src=&quot;/maciek.github.io/4802eb9ea4859fb7a817574a03680ab1/translation13.wav&quot;&gt;
 	&lt;/audio&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
     &lt;figcaption&gt;Drum Translation 7/20&lt;/figcaption&gt;
 	&lt;figcaption&gt;Source recording (left) and translation output (right)&lt;/figcaption&gt;
 	&lt;audio controls
-        src=&quot;/f6dbbad8da20c478f9b3163d173d226b/source10.wav&quot;&gt;
+        src=&quot;/maciek.github.io/f6dbbad8da20c478f9b3163d173d226b/source10.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;audio controls
-		src=&quot;/dc6466dbbb4579dc6cd6bdab55e86f17/translation10.wav&quot;&gt;
+		src=&quot;/maciek.github.io/dc6466dbbb4579dc6cd6bdab55e86f17/translation10.wav&quot;&gt;
 	&lt;/audio&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
     &lt;figcaption&gt;Drum Translation 8/20&lt;/figcaption&gt;
 	&lt;figcaption&gt;Source recording (left) and translation output (right)&lt;/figcaption&gt;
 	&lt;audio controls
-        src=&quot;/8d0d5120fb18e863efdd7f913bcf4c71/source1.wav&quot;&gt;
+        src=&quot;/maciek.github.io/8d0d5120fb18e863efdd7f913bcf4c71/source1.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;audio controls
-		src=&quot;/0e14c35acfc7b231837d068f7aa961f2/translation1.wav&quot;&gt;
+		src=&quot;/maciek.github.io/0e14c35acfc7b231837d068f7aa961f2/translation1.wav&quot;&gt;
 	&lt;/audio&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
     &lt;figcaption&gt;Drum Translation 9/20&lt;/figcaption&gt;
 	&lt;figcaption&gt;Source recording (left) and translation output (right)&lt;/figcaption&gt;
 	&lt;audio controls
-        src=&quot;/8961474d9c1c614692188bf92f6152ef/source11.wav&quot;&gt;
+        src=&quot;/maciek.github.io/8961474d9c1c614692188bf92f6152ef/source11.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;audio controls
-		src=&quot;/2d25ec72a20ac28105fd9acf5e0d140e/translation11.wav&quot;&gt;
+		src=&quot;/maciek.github.io/2d25ec72a20ac28105fd9acf5e0d140e/translation11.wav&quot;&gt;
 	&lt;/audio&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
     &lt;figcaption&gt;Drum Translation 10/20&lt;/figcaption&gt;
 	&lt;figcaption&gt;Source recording (left) and translation output (right)&lt;/figcaption&gt;
 	&lt;audio controls
-        src=&quot;/1a23e06e28a038b69fca42115be0e135/source12.wav&quot;&gt;
+        src=&quot;/maciek.github.io/1a23e06e28a038b69fca42115be0e135/source12.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;audio controls
-		src=&quot;/f3909ececcde291150a0cc18143cc2cb/translation12.wav&quot;&gt;
+		src=&quot;/maciek.github.io/f3909ececcde291150a0cc18143cc2cb/translation12.wav&quot;&gt;
 	&lt;/audio&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
     &lt;figcaption&gt;Drum Translation 11/20&lt;/figcaption&gt;
 	&lt;figcaption&gt;Source recording (left) and translation output (right)&lt;/figcaption&gt;
 	&lt;audio controls
-        src=&quot;/ea0b2694e1d6516560ca81ceb1efbf78/source17.wav&quot;&gt;
+        src=&quot;/maciek.github.io/ea0b2694e1d6516560ca81ceb1efbf78/source17.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;audio controls
-		src=&quot;/60ddaafbe359b247097768d47c545df7/translation17.wav&quot;&gt;
+		src=&quot;/maciek.github.io/60ddaafbe359b247097768d47c545df7/translation17.wav&quot;&gt;
 	&lt;/audio&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
     &lt;figcaption&gt;Drum Translation 12/20&lt;/figcaption&gt;
 	&lt;figcaption&gt;Source recording (left) and translation output (right)&lt;/figcaption&gt;
 	&lt;audio controls
-        src=&quot;/69d3959a15977e838d8552abba1eaf31/source2.wav&quot;&gt;
+        src=&quot;/maciek.github.io/69d3959a15977e838d8552abba1eaf31/source2.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;audio controls
-		src=&quot;/1eed63f1ee1476eab341495300750773/translation2.wav&quot;&gt;
+		src=&quot;/maciek.github.io/1eed63f1ee1476eab341495300750773/translation2.wav&quot;&gt;
 	&lt;/audio&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
     &lt;figcaption&gt;Drum Translation 13/20&lt;/figcaption&gt;
 	&lt;figcaption&gt;Source recording (left) and translation output (right)&lt;/figcaption&gt;
 	&lt;audio controls
-        src=&quot;/15bcd72b2d2de897159e72410d579026/source20.wav&quot;&gt;
+        src=&quot;/maciek.github.io/15bcd72b2d2de897159e72410d579026/source20.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;audio controls
-		src=&quot;/9c40a268f9ebbdb4c53d3d366ca71006/translation20.wav&quot;&gt;
+		src=&quot;/maciek.github.io/9c40a268f9ebbdb4c53d3d366ca71006/translation20.wav&quot;&gt;
 	&lt;/audio&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
     &lt;figcaption&gt;Drum Translation 14/20&lt;/figcaption&gt;
 	&lt;figcaption&gt;Source recording (left) and translation output (right)&lt;/figcaption&gt;
 	&lt;audio controls
-        src=&quot;/de36bdde3c67fbc66ee26a1923a7d86d/source3.wav&quot;&gt;
+        src=&quot;/maciek.github.io/de36bdde3c67fbc66ee26a1923a7d86d/source3.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;audio controls
-		src=&quot;/7952853b8b2e9a9a1bd611e0bdfba16a/translation3.wav&quot;&gt;
+		src=&quot;/maciek.github.io/7952853b8b2e9a9a1bd611e0bdfba16a/translation3.wav&quot;&gt;
 	&lt;/audio&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
     &lt;figcaption&gt;Drum Translation 15/20&lt;/figcaption&gt;
 	&lt;figcaption&gt;Source recording (left) and translation output (right)&lt;/figcaption&gt;
 	&lt;audio controls
-        src=&quot;/1e469f829535fdd5cf34af63a1cf9cec/source4.wav&quot;&gt;
+        src=&quot;/maciek.github.io/1e469f829535fdd5cf34af63a1cf9cec/source4.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;audio controls
-		src=&quot;/49e74109eac1274702f88c8d6b914e24/translation4.wav&quot;&gt;
+		src=&quot;/maciek.github.io/49e74109eac1274702f88c8d6b914e24/translation4.wav&quot;&gt;
 	&lt;/audio&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
     &lt;figcaption&gt;Drum Translation 16/20&lt;/figcaption&gt;
 	&lt;figcaption&gt;Source recording (left) and translation output (right)&lt;/figcaption&gt;
 	&lt;audio controls
-        src=&quot;/5e8601fc98c6f01832003b4e2662efd3/source5.wav&quot;&gt;
+        src=&quot;/maciek.github.io/5e8601fc98c6f01832003b4e2662efd3/source5.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;audio controls
-		src=&quot;/ecb3e648669dbb11d0e96006d9f610de/translation5.wav&quot;&gt;
+		src=&quot;/maciek.github.io/ecb3e648669dbb11d0e96006d9f610de/translation5.wav&quot;&gt;
 	&lt;/audio&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
     &lt;figcaption&gt;Drum Translation 17/20&lt;/figcaption&gt;
 	&lt;figcaption&gt;Source recording (left) and translation output (right)&lt;/figcaption&gt;
 	&lt;audio controls
-        src=&quot;/b54df617832422612fd3a295d5fe839e/source6.wav&quot;&gt;
+        src=&quot;/maciek.github.io/b54df617832422612fd3a295d5fe839e/source6.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;audio controls
-		src=&quot;/4a534acb6e3672a935d1844cce4e78f2/translation6.wav&quot;&gt;
+		src=&quot;/maciek.github.io/4a534acb6e3672a935d1844cce4e78f2/translation6.wav&quot;&gt;
 	&lt;/audio&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
     &lt;figcaption&gt;Drum Translation 18/20&lt;/figcaption&gt;
 	&lt;figcaption&gt;Source recording (left) and translation output (right)&lt;/figcaption&gt;
 	&lt;audio controls
-        src=&quot;/55a1cae72150124798aa4325c23324b1/source7.wav&quot;&gt;
+        src=&quot;/maciek.github.io/55a1cae72150124798aa4325c23324b1/source7.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;audio controls
-		src=&quot;/acc8c2014364faa2640e88cdd0b9c232/translation7.wav&quot;&gt;
+		src=&quot;/maciek.github.io/acc8c2014364faa2640e88cdd0b9c232/translation7.wav&quot;&gt;
 	&lt;/audio&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
     &lt;figcaption&gt;Drum Translation 19/20&lt;/figcaption&gt;
 	&lt;figcaption&gt;Source recording (left) and translation output (right)&lt;/figcaption&gt;
 	&lt;audio controls
-        src=&quot;/b0cd800bba5ab6ce311ca92df3f7cecf/source8.wav&quot;&gt;
+        src=&quot;/maciek.github.io/b0cd800bba5ab6ce311ca92df3f7cecf/source8.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;audio controls
-		src=&quot;/5a3720b813ff38fbb1c88c7d73b273cd/translation8.wav&quot;&gt;
+		src=&quot;/maciek.github.io/5a3720b813ff38fbb1c88c7d73b273cd/translation8.wav&quot;&gt;
 	&lt;/audio&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
     &lt;figcaption&gt;Drum Translation 20/20&lt;/figcaption&gt;
 	&lt;figcaption&gt;Source recording (left) and translation output (right)&lt;/figcaption&gt;
 	&lt;audio controls
-        src=&quot;/0b73265145c605e3e7a28e45ec62304e/source9.wav&quot;&gt;
+        src=&quot;/maciek.github.io/0b73265145c605e3e7a28e45ec62304e/source9.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;audio controls
-		src=&quot;/2af38ae91519852c498cd940ee8a232b/translation9.wav&quot;&gt;
+		src=&quot;/maciek.github.io/2af38ae91519852c498cd940ee8a232b/translation9.wav&quot;&gt;
 	&lt;/audio&gt;
 &lt;/figure&gt;
 &lt;/center&gt;
@@ -324,15 +324,15 @@
 &lt;figure&gt;
 &lt;figcaption&gt;&lt;b&gt;Input A&lt;/b&gt;: Marching In The Streets by Harvey Mason&lt;/figcaption&gt;
 	&lt;audio controls
-		src=&quot;/14cca43a0f3461a410ad93b885c796ff/Harvey_Mason_Marching_In_The_Streets.wav&quot;&gt;
+		src=&quot;/maciek.github.io/14cca43a0f3461a410ad93b885c796ff/Harvey_Mason_Marching_In_The_Streets.wav&quot;&gt;
 	&lt;/audio&gt;
 	&lt;figcaption&gt;&lt;b&gt;Input B&lt;/b&gt;: Night and Day by Idris Muhammad with George Coleman&lt;/figcaption&gt;
 	&lt;audio controls
-		src=&quot;/ca2140fb1e7727ad22d190d74efee46b/Idris_Muhammad_with_George_Coleman_Night_and_Day.wav&quot;&gt;
+		src=&quot;/maciek.github.io/ca2140fb1e7727ad22d190d74efee46b/Idris_Muhammad_with_George_Coleman_Night_and_Day.wav&quot;&gt;
 	&lt;/audio&gt;
 	&lt;figcaption&gt;&lt;b&gt;Output Loss 2&lt;/b&gt; (Mashup - Style A + Style B)&lt;/figcaption&gt;
 	&lt;audio controls
-		src=&quot;/e95fac7a9b909df2cd23448d12dfd082/Harvey_Mason_Marching_In_The_StreetsIdris_Muhammad_with_George_Coleman_Night_and_Day_1_exp1_fullnorm.wav&quot;&gt;
+		src=&quot;/maciek.github.io/e95fac7a9b909df2cd23448d12dfd082/Harvey_Mason_Marching_In_The_StreetsIdris_Muhammad_with_George_Coleman_Night_and_Day_1_exp1_fullnorm.wav&quot;&gt;
 	&lt;/audio&gt;
 &lt;/figure&gt;
 &lt;/center&gt;
@@ -341,15 +341,15 @@
 &lt;figure&gt;
     &lt;figcaption&gt;&lt;b&gt;Input A&lt;/b&gt;: Colours of the Season by Daudi Matsiko, Yung Veerp, Fazerdaze and others&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/c1ca71d4be0a4b8c03bb83848892de23/colours_of_the_season.mp3&quot;&gt;
+        src=&quot;/maciek.github.io/c1ca71d4be0a4b8c03bb83848892de23/colours_of_the_season.mp3&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;&lt;b&gt;Input B&lt;/b&gt;: Loop Trigger by Mathew Jonson, GPU Panic&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/d71f196983c41c68f6245e6577d44e4e/loop_trigger.mp3&quot;&gt;
+        src=&quot;/maciek.github.io/d71f196983c41c68f6245e6577d44e4e/loop_trigger.mp3&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;&lt;b&gt;Output Loss 2&lt;/b&gt; - Loop Triggered Colours of the Season&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/ff087fa72392dc0829b9ec688108289b/loop_triggered_colors_of_the_season.mp3&quot;&gt;
+        src=&quot;/maciek.github.io/ff087fa72392dc0829b9ec688108289b/loop_triggered_colors_of_the_season.mp3&quot;&gt;
     &lt;/audio&gt;
 &lt;/figure&gt;
 &lt;/center&gt;
@@ -360,35 +360,35 @@
 &lt;figure&gt;
     &lt;figcaption&gt;Input A&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/523675b5daf14cee80870c437f0e6dc6/kyle_ep_02mason_br_02_3_exp3_fullnorm05.wav&quot;&gt;
+        src=&quot;/maciek.github.io/523675b5daf14cee80870c437f0e6dc6/kyle_ep_02mason_br_02_3_exp3_fullnorm05.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Input B&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/5cfcdbc2f993824fe7a746d9bd9fd3b8/kyle_ep_02mason_br_02_3_exp3_fullnorm05.wav&quot;&gt;
+        src=&quot;/maciek.github.io/5cfcdbc2f993824fe7a746d9bd9fd3b8/kyle_ep_02mason_br_02_3_exp3_fullnorm05.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Loss 1 (Vanilla AST - Content A + Style B)&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/55146ee0cbafcb88d006038eb2419794/kyle_ep_02mason_br_02_3_exp3_fullnorm05.wav&quot;&gt;
+        src=&quot;/maciek.github.io/55146ee0cbafcb88d006038eb2419794/kyle_ep_02mason_br_02_3_exp3_fullnorm05.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Loss 2 (Mashup - Style A + Style B)&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/c234d46280dea176515394c1ac875cb8/kyle_ep_02mason_br_02_3_exp3_fullnorm05.wav&quot;&gt;
+        src=&quot;/maciek.github.io/c234d46280dea176515394c1ac875cb8/kyle_ep_02mason_br_02_3_exp3_fullnorm05.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Loss 3 (Augmented Mashup - Style A + Style B + Content B)&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/901e229ba330d4d780641048d676cbc3/kyle_ep_02mason_br_02_3_exp3_fullnorm05.wav&quot;&gt;
+        src=&quot;/maciek.github.io/901e229ba330d4d780641048d676cbc3/kyle_ep_02mason_br_02_3_exp3_fullnorm05.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Vanilla AST (Barry 2018)&lt;/figcaption&gt;
 	&lt;audio controls
-		src=&quot;/545196cdd10ba5e41e17c074239f3a67/kyle_ep_02mason_br_02_3_exp3_fullnorm04.mp3&quot;&gt;
+		src=&quot;/maciek.github.io/545196cdd10ba5e41e17c074239f3a67/kyle_ep_02mason_br_02_3_exp3_fullnorm04.mp3&quot;&gt;
 	&lt;/audio&gt;
 	&lt;figcaption&gt;Vanilla AST (Mital 2017)&lt;/figcaption&gt;
 	&lt;audio controls
-		src=&quot;/17aefd2941123a720bc58bcfd290d7d5/kyle_ep_02mason_br_02_3_exp3_fullnorm04.mp3&quot;&gt;
+		src=&quot;/maciek.github.io/17aefd2941123a720bc58bcfd290d7d5/kyle_ep_02mason_br_02_3_exp3_fullnorm04.mp3&quot;&gt;
 	&lt;/audio&gt;
 	&lt;figcaption&gt;Vanilla AST (Ulyanov 2016)&lt;/figcaption&gt;
 	&lt;audio controls
-		src=&quot;/afb43257104ce36c1d4067a258d25d4b/kyle_ep_02mason_br_02_3_exp3_fullnorm04.mp3&quot;&gt;
+		src=&quot;/maciek.github.io/afb43257104ce36c1d4067a258d25d4b/kyle_ep_02mason_br_02_3_exp3_fullnorm04.mp3&quot;&gt;
 	&lt;/audio&gt;
 &lt;/figure&gt;
 &lt;/center&gt;
@@ -398,35 +398,35 @@
 &lt;figure&gt;
     &lt;figcaption&gt;Input A&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/43420d02d4388aa58306640196a003cb/kyle_gs_02mason_cl_03_8_exp8_fullnorm08.wav&quot;&gt;
+        src=&quot;/maciek.github.io/43420d02d4388aa58306640196a003cb/kyle_gs_02mason_cl_03_8_exp8_fullnorm08.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Input B&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/6c45ad936b61e14cbb683553eb01008a/kyle_gs_02mason_cl_03_8_exp8_fullnorm08.wav&quot;&gt;
+        src=&quot;/maciek.github.io/6c45ad936b61e14cbb683553eb01008a/kyle_gs_02mason_cl_03_8_exp8_fullnorm08.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Loss 1 (Vanilla AST - Content A + Style B)&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/564b8df19727d16c78fd67853d5c2a94/kyle_gs_02mason_cl_03_8_exp8_fullnorm08.wav&quot;&gt;
+        src=&quot;/maciek.github.io/564b8df19727d16c78fd67853d5c2a94/kyle_gs_02mason_cl_03_8_exp8_fullnorm08.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Loss 2 (Mashup - Style A + Style B)&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/8029e72dc756c52601b55e7fded7580f/kyle_gs_02mason_cl_03_8_exp8_fullnorm08.wav&quot;&gt;
+        src=&quot;/maciek.github.io/8029e72dc756c52601b55e7fded7580f/kyle_gs_02mason_cl_03_8_exp8_fullnorm08.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Loss 3 (Augmented Mashup - Style A + Style B + Content B)&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/f5cce81140709096f795f233bac14de3/kyle_gs_02mason_cl_03_8_exp8_fullnorm08.wav&quot;&gt;
+        src=&quot;/maciek.github.io/f5cce81140709096f795f233bac14de3/kyle_gs_02mason_cl_03_8_exp8_fullnorm08.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Vanilla AST (Barry 2018)&lt;/figcaption&gt;
 	&lt;audio controls
-		src=&quot;/b159131d16e310412e05484b82d75040/kyle_gs_02mason_cl_03_8_exp8_fullnorm07.mp3&quot;&gt;
+		src=&quot;/maciek.github.io/b159131d16e310412e05484b82d75040/kyle_gs_02mason_cl_03_8_exp8_fullnorm07.mp3&quot;&gt;
 	&lt;/audio&gt;
 	&lt;figcaption&gt;Vanilla AST (Mital 2017)&lt;/figcaption&gt;
 	&lt;audio controls
-		src=&quot;/8a0d60e27483c0871e1b3683c32ccb10/kyle_gs_02mason_cl_03_8_exp8_fullnorm07.mp3&quot;&gt;
+		src=&quot;/maciek.github.io/8a0d60e27483c0871e1b3683c32ccb10/kyle_gs_02mason_cl_03_8_exp8_fullnorm07.mp3&quot;&gt;
 	&lt;/audio&gt;
 	&lt;figcaption&gt;Vanilla AST (Ulyanov 2016)&lt;/figcaption&gt;
 	&lt;audio controls
-		src=&quot;/3cff1139c7f8f48731fd3e96aad431d2/kyle_gs_02mason_cl_03_8_exp8_fullnorm07.mp3&quot;&gt;
+		src=&quot;/maciek.github.io/3cff1139c7f8f48731fd3e96aad431d2/kyle_gs_02mason_cl_03_8_exp8_fullnorm07.mp3&quot;&gt;
 	&lt;/audio&gt;
 &lt;/figure&gt;
 &lt;/center&gt;
@@ -436,35 +436,35 @@
 &lt;figure&gt;
     &lt;figcaption&gt;Input A&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/dc8d9d1bf7c0c4b5e9f7a31f21d9867a/kyle_hp_02mason_cl_01_10_exp10_fullnorm10.wav&quot;&gt;
+        src=&quot;/maciek.github.io/dc8d9d1bf7c0c4b5e9f7a31f21d9867a/kyle_hp_02mason_cl_01_10_exp10_fullnorm10.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Input B&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/c9e4c46ee16d50adffa6f750f5e84d40/kyle_hp_02mason_cl_01_10_exp10_fullnorm10.wav&quot;&gt;
+        src=&quot;/maciek.github.io/c9e4c46ee16d50adffa6f750f5e84d40/kyle_hp_02mason_cl_01_10_exp10_fullnorm10.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Loss 1 (Vanilla AST - Content A + Style B)&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/96290f4b975ceeb0ac2edfe49a6b8ed7/kyle_hp_02mason_cl_01_10_exp10_fullnorm10.wav&quot;&gt;
+        src=&quot;/maciek.github.io/96290f4b975ceeb0ac2edfe49a6b8ed7/kyle_hp_02mason_cl_01_10_exp10_fullnorm10.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Loss 2 (Mashup - Style A + Style B)&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/c9b2e975800132574fe7172edddd5a8d/kyle_hp_02mason_cl_01_10_exp10_fullnorm10.wav&quot;&gt;
+        src=&quot;/maciek.github.io/c9b2e975800132574fe7172edddd5a8d/kyle_hp_02mason_cl_01_10_exp10_fullnorm10.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Loss 3 (Augmented Mashup - Style A + Style B + Content B)&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/986153a40409d93a1378b47ba5aa0fb6/kyle_hp_02mason_cl_01_10_exp10_fullnorm10.wav&quot;&gt;
+        src=&quot;/maciek.github.io/986153a40409d93a1378b47ba5aa0fb6/kyle_hp_02mason_cl_01_10_exp10_fullnorm10.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Vanilla AST (Barry 2018)&lt;/figcaption&gt;
 	&lt;audio controls
-		src=&quot;/c5bc40f0613404d9681714f43473efd4/kyle_hp_02mason_cl_01_10_exp10_fullnorm09.mp3&quot;&gt;
+		src=&quot;/maciek.github.io/c5bc40f0613404d9681714f43473efd4/kyle_hp_02mason_cl_01_10_exp10_fullnorm09.mp3&quot;&gt;
 	&lt;/audio&gt;
 	&lt;figcaption&gt;Vanilla AST (Mital 2017)&lt;/figcaption&gt;
 	&lt;audio controls
-		src=&quot;/9f5c5c4de63b7287e99c82db3efc1d1c/kyle_hp_02mason_cl_01_10_exp10_fullnorm09.mp3&quot;&gt;
+		src=&quot;/maciek.github.io/9f5c5c4de63b7287e99c82db3efc1d1c/kyle_hp_02mason_cl_01_10_exp10_fullnorm09.mp3&quot;&gt;
 	&lt;/audio&gt;
 	&lt;figcaption&gt;Vanilla AST (Ulyanov 2016)&lt;/figcaption&gt;
 	&lt;audio controls
-		src=&quot;/70c9d024050929e41c1a2f945326c64a/kyle_hp_02mason_cl_01_10_exp10_fullnorm09.mp3&quot;&gt;
+		src=&quot;/maciek.github.io/70c9d024050929e41c1a2f945326c64a/kyle_hp_02mason_cl_01_10_exp10_fullnorm09.mp3&quot;&gt;
 	&lt;/audio&gt;
 &lt;/figure&gt;
 &lt;/center&gt;
@@ -474,35 +474,35 @@
 &lt;figure&gt;
     &lt;figcaption&gt;Input A&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/9fb54af6058f561040b8d1be418ff0f6/kyle_mt_03mason_br_01_12_exp12_fullnorm13.wav&quot;&gt;
+        src=&quot;/maciek.github.io/9fb54af6058f561040b8d1be418ff0f6/kyle_mt_03mason_br_01_12_exp12_fullnorm13.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Input B&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/ac637562bb243bf8a9a20e66a0bc6df8/kyle_mt_03mason_br_01_12_exp12_fullnorm13.wav&quot;&gt;
+        src=&quot;/maciek.github.io/ac637562bb243bf8a9a20e66a0bc6df8/kyle_mt_03mason_br_01_12_exp12_fullnorm13.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Loss 1 (Vanilla AST - Content A + Style B)&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/0d915ce6a4a037a8a299c23f598f61df/kyle_mt_03mason_br_01_12_exp12_fullnorm13.wav&quot;&gt;
+        src=&quot;/maciek.github.io/0d915ce6a4a037a8a299c23f598f61df/kyle_mt_03mason_br_01_12_exp12_fullnorm13.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Loss 2 (Mashup - Style A + Style B)&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/4f03b489c0a62caf349755b94bbd7411/kyle_mt_03mason_br_01_12_exp12_fullnorm13.wav&quot;&gt;
+        src=&quot;/maciek.github.io/4f03b489c0a62caf349755b94bbd7411/kyle_mt_03mason_br_01_12_exp12_fullnorm13.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Loss 3 (Augmented Mashup - Style A + Style B + Content B)&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/7ddcab20a419142d1cf693b10c13a10c/kyle_mt_03mason_br_01_12_exp12_fullnorm13.wav&quot;&gt;
+        src=&quot;/maciek.github.io/7ddcab20a419142d1cf693b10c13a10c/kyle_mt_03mason_br_01_12_exp12_fullnorm13.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Vanilla AST (Barry 2018)&lt;/figcaption&gt;
 	&lt;audio controls
-		src=&quot;/68374fbbcca562892052f3f03e7c51da/kyle_mt_03mason_br_01_12_exp12_fullnorm12.mp3&quot;&gt;
+		src=&quot;/maciek.github.io/68374fbbcca562892052f3f03e7c51da/kyle_mt_03mason_br_01_12_exp12_fullnorm12.mp3&quot;&gt;
 	&lt;/audio&gt;
 	&lt;figcaption&gt;Vanilla AST (Mital 2017)&lt;/figcaption&gt;
 	&lt;audio controls
-		src=&quot;/2d9dc1972df221d964eb73ca58201581/kyle_mt_03mason_br_01_12_exp12_fullnorm12.mp3&quot;&gt;
+		src=&quot;/maciek.github.io/2d9dc1972df221d964eb73ca58201581/kyle_mt_03mason_br_01_12_exp12_fullnorm12.mp3&quot;&gt;
 	&lt;/audio&gt;
 	&lt;figcaption&gt;Vanilla AST (Ulyanov 2016)&lt;/figcaption&gt;
 	&lt;audio controls
-		src=&quot;/439d22e6d02917094d7fcded24b9ce96/kyle_mt_03mason_br_01_12_exp12_fullnorm12.mp3&quot;&gt;
+		src=&quot;/maciek.github.io/439d22e6d02917094d7fcded24b9ce96/kyle_mt_03mason_br_01_12_exp12_fullnorm12.mp3&quot;&gt;
 	&lt;/audio&gt;
 &lt;/figure&gt;
 &lt;/center&gt;
@@ -512,35 +512,35 @@
 &lt;figure&gt;
     &lt;figcaption&gt;Input A&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/dd20300ddcf4d2c91a9b0658b4a8c949/kyle_nk_01kyle_hp_01_4_exp4_fullnorm14.wav&quot;&gt;
+        src=&quot;/maciek.github.io/dd20300ddcf4d2c91a9b0658b4a8c949/kyle_nk_01kyle_hp_01_4_exp4_fullnorm14.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Input B&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/5b5e8d9523f1522d800fa103693952a8/kyle_nk_01kyle_hp_01_4_exp4_fullnorm14.wav&quot;&gt;
+        src=&quot;/maciek.github.io/5b5e8d9523f1522d800fa103693952a8/kyle_nk_01kyle_hp_01_4_exp4_fullnorm14.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Loss 1 (Vanilla AST - Content A + Style B)&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/8e1d192ffb2ed2802e7998a5948d4f4f/kyle_nk_01kyle_hp_01_4_exp4_fullnorm14.wav&quot;&gt;
+        src=&quot;/maciek.github.io/8e1d192ffb2ed2802e7998a5948d4f4f/kyle_nk_01kyle_hp_01_4_exp4_fullnorm14.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Loss 2 (Mashup - Style A + Style B)&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/031314b455244fda1df8b94d4e9f65b6/kyle_nk_01kyle_hp_01_4_exp4_fullnorm14.wav&quot;&gt;
+        src=&quot;/maciek.github.io/031314b455244fda1df8b94d4e9f65b6/kyle_nk_01kyle_hp_01_4_exp4_fullnorm14.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Loss 3 (Augmented Mashup - Style A + Style B + Content B)&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/7ddcab20a419142d1cf693b10c13a10c/kyle_nk_01kyle_hp_01_4_exp4_fullnorm14.wav&quot;&gt;
+        src=&quot;/maciek.github.io/7ddcab20a419142d1cf693b10c13a10c/kyle_nk_01kyle_hp_01_4_exp4_fullnorm14.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Vanilla AST (Barry 2018)&lt;/figcaption&gt;
 	&lt;audio controls
-		src=&quot;/3e89a2db9c1f09b301a0200e01dbd1fb/kyle_nk_01kyle_hp_01_4_exp4_fullnorm13.mp3&quot;&gt;
+		src=&quot;/maciek.github.io/3e89a2db9c1f09b301a0200e01dbd1fb/kyle_nk_01kyle_hp_01_4_exp4_fullnorm13.mp3&quot;&gt;
 	&lt;/audio&gt;
 	&lt;figcaption&gt;Vanilla AST (Mital 2017)&lt;/figcaption&gt;
 	&lt;audio controls
-		src=&quot;/624d64d5734e35f491d39449d9cdc930/kyle_nk_01kyle_hp_01_4_exp4_fullnorm13.mp3&quot;&gt;
+		src=&quot;/maciek.github.io/624d64d5734e35f491d39449d9cdc930/kyle_nk_01kyle_hp_01_4_exp4_fullnorm13.mp3&quot;&gt;
 	&lt;/audio&gt;
 	&lt;figcaption&gt;Vanilla AST (Ulyanov 2016)&lt;/figcaption&gt;
 	&lt;audio controls
-		src=&quot;/773f65f42d45d2997600928205becb94/kyle_nk_01kyle_hp_01_4_exp4_fullnorm13.mp3&quot;&gt;
+		src=&quot;/maciek.github.io/773f65f42d45d2997600928205becb94/kyle_nk_01kyle_hp_01_4_exp4_fullnorm13.mp3&quot;&gt;
 	&lt;/audio&gt;
 &lt;/figure&gt;
 &lt;/center&gt;
@@ -550,35 +550,35 @@
 &lt;figure&gt;
     &lt;figcaption&gt;Input A&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/d94be4f326573f3a18c1fd21fabdd383/mason_br_03mason_km_03_13_exp13_fullnorm15.wav&quot;&gt;
+        src=&quot;/maciek.github.io/d94be4f326573f3a18c1fd21fabdd383/mason_br_03mason_km_03_13_exp13_fullnorm15.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Input B&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/121af88a95dbc5184ae9eb820fce178d/mason_br_03mason_km_03_13_exp13_fullnorm15.wav&quot;&gt;
+        src=&quot;/maciek.github.io/121af88a95dbc5184ae9eb820fce178d/mason_br_03mason_km_03_13_exp13_fullnorm15.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Loss 1 (Vanilla AST - Content A + Style B)&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/3e707be941fa2d71bb79d403295a4e63/mason_br_03mason_km_03_13_exp13_fullnorm15.wav&quot;&gt;
+        src=&quot;/maciek.github.io/3e707be941fa2d71bb79d403295a4e63/mason_br_03mason_km_03_13_exp13_fullnorm15.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Loss 2 (Mashup - Style A + Style B)&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/8e68733f2889943307412e93e0746423/mason_br_03mason_km_03_13_exp13_fullnorm15.wav&quot;&gt;
+        src=&quot;/maciek.github.io/8e68733f2889943307412e93e0746423/mason_br_03mason_km_03_13_exp13_fullnorm15.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Loss 3 (Augmented Mashup - Style A + Style B + Content B)&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/e5b994a4c60a2fe93458e3b625f332ab/mason_br_03mason_km_03_13_exp13_fullnorm15.wav&quot;&gt;
+        src=&quot;/maciek.github.io/e5b994a4c60a2fe93458e3b625f332ab/mason_br_03mason_km_03_13_exp13_fullnorm15.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Vanilla AST (Barry 2018)&lt;/figcaption&gt;
 	&lt;audio controls
-		src=&quot;/251f9229a329ceba12d7f462b18edff4/mason_br_03mason_km_03_13_exp13_fullnorm14.mp3&quot;&gt;
+		src=&quot;/maciek.github.io/251f9229a329ceba12d7f462b18edff4/mason_br_03mason_km_03_13_exp13_fullnorm14.mp3&quot;&gt;
 	&lt;/audio&gt;
 	&lt;figcaption&gt;Vanilla AST (Mital 2017)&lt;/figcaption&gt;
 	&lt;audio controls
-		src=&quot;/028d3013b1312a4921857752738ac18c/mason_br_03mason_km_03_13_exp13_fullnorm14.mp3&quot;&gt;
+		src=&quot;/maciek.github.io/028d3013b1312a4921857752738ac18c/mason_br_03mason_km_03_13_exp13_fullnorm14.mp3&quot;&gt;
 	&lt;/audio&gt;
 	&lt;figcaption&gt;Vanilla AST (Ulyanov 2016)&lt;/figcaption&gt;
 	&lt;audio controls
-		src=&quot;/ea98cb6ed48cd6ebf707259615d47e6d/mason_br_03mason_km_03_13_exp13_fullnorm14.mp3&quot;&gt;
+		src=&quot;/maciek.github.io/ea98cb6ed48cd6ebf707259615d47e6d/mason_br_03mason_km_03_13_exp13_fullnorm14.mp3&quot;&gt;
 	&lt;/audio&gt;
 &lt;/figure&gt;
 &lt;/center&gt;
@@ -588,35 +588,35 @@
 &lt;figure&gt;
     &lt;figcaption&gt;Input A&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/97d51bc6bc287ae0895f09f64a0b8d9f/mason_e_03kyle_ob_03_14_exp14_fullnorm16.wav&quot;&gt;
+        src=&quot;/maciek.github.io/97d51bc6bc287ae0895f09f64a0b8d9f/mason_e_03kyle_ob_03_14_exp14_fullnorm16.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Input B&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/8bc2f35a5b03d71199cea4d038f0eb2b/mason_e_03kyle_ob_03_14_exp14_fullnorm16.wav&quot;&gt;
+        src=&quot;/maciek.github.io/8bc2f35a5b03d71199cea4d038f0eb2b/mason_e_03kyle_ob_03_14_exp14_fullnorm16.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Loss 1 (Vanilla AST - Content A + Style B)&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/187c86dd9e0acab70f4cd7fd525fc87a/mason_e_03kyle_ob_03_14_exp14_fullnorm16.wav&quot;&gt;
+        src=&quot;/maciek.github.io/187c86dd9e0acab70f4cd7fd525fc87a/mason_e_03kyle_ob_03_14_exp14_fullnorm16.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Loss 2 (Mashup - Style A + Style B)&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/02c1c05786c5a4dc821fbf53309c9807/mason_e_03kyle_ob_03_14_exp14_fullnorm16.wav&quot;&gt;
+        src=&quot;/maciek.github.io/02c1c05786c5a4dc821fbf53309c9807/mason_e_03kyle_ob_03_14_exp14_fullnorm16.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Loss 3 (Augmented Mashup - Style A + Style B + Content B)&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/88a9b102ae3179410bfbb9b134d89f69/mason_e_03kyle_ob_03_14_exp14_fullnorm16.wav&quot;&gt;
+        src=&quot;/maciek.github.io/88a9b102ae3179410bfbb9b134d89f69/mason_e_03kyle_ob_03_14_exp14_fullnorm16.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Vanilla AST (Barry 2018)&lt;/figcaption&gt;
 	&lt;audio controls
-		src=&quot;/106222ea8877ea5b45430352dd01b800/mason_e_03kyle_ob_03_14_exp14_fullnorm15.mp3&quot;&gt;
+		src=&quot;/maciek.github.io/106222ea8877ea5b45430352dd01b800/mason_e_03kyle_ob_03_14_exp14_fullnorm15.mp3&quot;&gt;
 	&lt;/audio&gt;
 	&lt;figcaption&gt;Vanilla AST (Mital 2017)&lt;/figcaption&gt;
 	&lt;audio controls
-		src=&quot;/5555525a3639d53a820555860f663cdd/mason_e_03kyle_ob_03_14_exp14_fullnorm15.mp3&quot;&gt;
+		src=&quot;/maciek.github.io/5555525a3639d53a820555860f663cdd/mason_e_03kyle_ob_03_14_exp14_fullnorm15.mp3&quot;&gt;
 	&lt;/audio&gt;
 	&lt;figcaption&gt;Vanilla AST (Ulyanov 2016)&lt;/figcaption&gt;
 	&lt;audio controls
-		src=&quot;/b9636c92188d207b23834fd5ed8a4cab/mason_e_03kyle_ob_03_14_exp14_fullnorm15.mp3&quot;&gt;
+		src=&quot;/maciek.github.io/b9636c92188d207b23834fd5ed8a4cab/mason_e_03kyle_ob_03_14_exp14_fullnorm15.mp3&quot;&gt;
 	&lt;/audio&gt;
 &lt;/figure&gt;
 &lt;/center&gt;
@@ -626,35 +626,35 @@
 &lt;figure&gt;
     &lt;figcaption&gt;Input A&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/1569a5a25fb5c80814023dcf1a8642eb/kyle_ctp_02kyle_nk_03_1_exp1_fullnorm04.wav&quot;&gt;
+        src=&quot;/maciek.github.io/1569a5a25fb5c80814023dcf1a8642eb/kyle_ctp_02kyle_nk_03_1_exp1_fullnorm04.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Input B&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/608aa82a66ccddfdcf3e1295457bd397/kyle_ctp_02kyle_nk_03_1_exp1_fullnorm04.wav&quot;&gt;
+        src=&quot;/maciek.github.io/608aa82a66ccddfdcf3e1295457bd397/kyle_ctp_02kyle_nk_03_1_exp1_fullnorm04.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Loss 1 (Vanilla AST - Content A + Style B)&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/3ec4c719193ffd0749cf43ee3e410d53/kyle_ctp_02kyle_nk_03_1_exp1_fullnorm04.wav&quot;&gt;
+        src=&quot;/maciek.github.io/3ec4c719193ffd0749cf43ee3e410d53/kyle_ctp_02kyle_nk_03_1_exp1_fullnorm04.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Loss 2 (Mashup - Style A + Style B)&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/260e6b23708daebfc6061fa910ce14d9/kyle_ctp_02kyle_nk_03_1_exp1_fullnorm04.wav&quot;&gt;
+        src=&quot;/maciek.github.io/260e6b23708daebfc6061fa910ce14d9/kyle_ctp_02kyle_nk_03_1_exp1_fullnorm04.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Loss 3 (Augmented Mashup - Style A + Style B + Content B)&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/c5449cac61f3926247c1f34507146e1c/kyle_ctp_02kyle_nk_03_1_exp1_fullnorm04.wav&quot;&gt;
+        src=&quot;/maciek.github.io/c5449cac61f3926247c1f34507146e1c/kyle_ctp_02kyle_nk_03_1_exp1_fullnorm04.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Vanilla AST (Barry 2018)&lt;/figcaption&gt;
 	&lt;audio controls
-		src=&quot;/9a556f9326a9acbb6aa4d333007f7a55/kyle_ctp_02kyle_nk_03_1_exp1_fullnorm03.mp3&quot;&gt;
+		src=&quot;/maciek.github.io/9a556f9326a9acbb6aa4d333007f7a55/kyle_ctp_02kyle_nk_03_1_exp1_fullnorm03.mp3&quot;&gt;
 	&lt;/audio&gt;
 	&lt;figcaption&gt;Vanilla AST (Mital 2017)&lt;/figcaption&gt;
 	&lt;audio controls
-		src=&quot;/58dc70b097587ece40f30b7d0846ead5/kyle_ctp_02kyle_nk_03_1_exp1_fullnorm03.mp3&quot;&gt;
+		src=&quot;/maciek.github.io/58dc70b097587ece40f30b7d0846ead5/kyle_ctp_02kyle_nk_03_1_exp1_fullnorm03.mp3&quot;&gt;
 	&lt;/audio&gt;
 	&lt;figcaption&gt;Vanilla AST (Ulyanov 2016)&lt;/figcaption&gt;
 	&lt;audio controls
-		src=&quot;/fc5e1969131e88dced9e22826cab1c59/kyle_ctp_02kyle_nk_03_1_exp1_fullnorm03.mp3&quot;&gt;
+		src=&quot;/maciek.github.io/fc5e1969131e88dced9e22826cab1c59/kyle_ctp_02kyle_nk_03_1_exp1_fullnorm03.mp3&quot;&gt;
 	&lt;/audio&gt;
 &lt;/figure&gt;
 &lt;/center&gt;
@@ -664,35 +664,35 @@
 &lt;figure&gt;
     &lt;figcaption&gt;Input A&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/34a133df09ba766c6b7f1a797fa1e0de/kyle_ep_01kyle_ob_02_2_exp2_fullnorm02.wav&quot;&gt;
+        src=&quot;/maciek.github.io/34a133df09ba766c6b7f1a797fa1e0de/kyle_ep_01kyle_ob_02_2_exp2_fullnorm02.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Input B&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/986ac00acf99d966e5c71d3be0b760f2/kyle_ep_01kyle_ob_02_2_exp2_fullnorm02.wav&quot;&gt;
+        src=&quot;/maciek.github.io/986ac00acf99d966e5c71d3be0b760f2/kyle_ep_01kyle_ob_02_2_exp2_fullnorm02.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Loss 1 (Vanilla AST - Content A + Style B)&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/361eb65e7803f258552227b9095c1368/kyle_ep_01kyle_ob_02_2_exp2_fullnorm02.wav&quot;&gt;
+        src=&quot;/maciek.github.io/361eb65e7803f258552227b9095c1368/kyle_ep_01kyle_ob_02_2_exp2_fullnorm02.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Loss 2 (Mashup - Style A + Style B)&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/c7dd83233336d8b109b72a6dfb10b86e/kyle_ep_01kyle_ob_02_2_exp2_fullnorm02.wav&quot;&gt;
+        src=&quot;/maciek.github.io/c7dd83233336d8b109b72a6dfb10b86e/kyle_ep_01kyle_ob_02_2_exp2_fullnorm02.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Loss 3 (Augmented Mashup - Style A + Style B + Content B)&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/3e5d3c3a61dd7ba87f72a590a1146501/kyle_ep_01kyle_ob_02_2_exp2_fullnorm02.wav&quot;&gt;
+        src=&quot;/maciek.github.io/3e5d3c3a61dd7ba87f72a590a1146501/kyle_ep_01kyle_ob_02_2_exp2_fullnorm02.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Vanilla AST (Barry 2018)&lt;/figcaption&gt;
 	&lt;audio controls
-		src=&quot;/a09f3322a8f158481501c32fa35e908c/kyle_ep_01kyle_ob_02_exp2_fullnorm01.mp3&quot;&gt;
+		src=&quot;/maciek.github.io/a09f3322a8f158481501c32fa35e908c/kyle_ep_01kyle_ob_02_exp2_fullnorm01.mp3&quot;&gt;
 	&lt;/audio&gt;
 	&lt;figcaption&gt;Vanilla AST (Mital 2017)&lt;/figcaption&gt;
 	&lt;audio controls
-		src=&quot;/9259540ed4fa752bcc72ae66bbc7ac49/kyle_ep_01kyle_ob_02_exp2_fullnorm01.mp3&quot;&gt;
+		src=&quot;/maciek.github.io/9259540ed4fa752bcc72ae66bbc7ac49/kyle_ep_01kyle_ob_02_exp2_fullnorm01.mp3&quot;&gt;
 	&lt;/audio&gt;
 	&lt;figcaption&gt;Vanilla AST (Ulyanov 2016)&lt;/figcaption&gt;
 	&lt;audio controls
-		src=&quot;/e61cc588768fe636794c76c3be359c3a/kyle_ep_01kyle_ob_02_exp2_fullnorm01.mp3&quot;&gt;
+		src=&quot;/maciek.github.io/e61cc588768fe636794c76c3be359c3a/kyle_ep_01kyle_ob_02_exp2_fullnorm01.mp3&quot;&gt;
 	&lt;/audio&gt;
 &lt;/figure&gt;
 &lt;/center&gt;
@@ -702,35 +702,35 @@
 &lt;figure&gt;
     &lt;figcaption&gt;Input A&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/1480104ebc55804f4bae74a065bddb77/kyle_ep_03kyle_hp_03_5_exp5_fullnorm06.wav&quot;&gt;
+        src=&quot;/maciek.github.io/1480104ebc55804f4bae74a065bddb77/kyle_ep_03kyle_hp_03_5_exp5_fullnorm06.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Input B&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/e38b3446e2653f66520aa09f61f024cb/kyle_ep_03kyle_hp_03_5_exp5_fullnorm06.wav&quot;&gt;
+        src=&quot;/maciek.github.io/e38b3446e2653f66520aa09f61f024cb/kyle_ep_03kyle_hp_03_5_exp5_fullnorm06.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Loss 1 (Vanilla AST - Content A + Style B)&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/473f1851e230f6332af2e1544dc29107/kyle_ep_03kyle_hp_03_5_exp5_fullnorm06.wav&quot;&gt;
+        src=&quot;/maciek.github.io/473f1851e230f6332af2e1544dc29107/kyle_ep_03kyle_hp_03_5_exp5_fullnorm06.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Loss 2 (Mashup - Style A + Style B)&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/4a0df498f24aba3175d0db7c7b339873/kyle_ep_03kyle_hp_03_5_exp5_fullnorm06.wav&quot;&gt;
+        src=&quot;/maciek.github.io/4a0df498f24aba3175d0db7c7b339873/kyle_ep_03kyle_hp_03_5_exp5_fullnorm06.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Loss 3 (Augmented Mashup - Style A + Style B + Content B)&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/97b1e413f2274407ec24a1f24a18ac47/kyle_ep_03kyle_hp_03_5_exp5_fullnorm06.wav&quot;&gt;
+        src=&quot;/maciek.github.io/97b1e413f2274407ec24a1f24a18ac47/kyle_ep_03kyle_hp_03_5_exp5_fullnorm06.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Vanilla AST (Barry 2018)&lt;/figcaption&gt;
 	&lt;audio controls
-		src=&quot;/f82532f034277364faa7d75e97f76111/kyle_ep_03kyle_hp_03_5_exp5_fullnorm05.mp3&quot;&gt;
+		src=&quot;/maciek.github.io/f82532f034277364faa7d75e97f76111/kyle_ep_03kyle_hp_03_5_exp5_fullnorm05.mp3&quot;&gt;
 	&lt;/audio&gt;
 	&lt;figcaption&gt;Vanilla AST (Mital 2017)&lt;/figcaption&gt;
 	&lt;audio controls
-		src=&quot;/e8f26cdd63b0a26107fe2f5a29ae190d/kyle_ep_03kyle_hp_03_5_exp5_fullnorm05.mp3&quot;&gt;
+		src=&quot;/maciek.github.io/e8f26cdd63b0a26107fe2f5a29ae190d/kyle_ep_03kyle_hp_03_5_exp5_fullnorm05.mp3&quot;&gt;
 	&lt;/audio&gt;
 	&lt;figcaption&gt;Vanilla AST (Ulyanov 2016)&lt;/figcaption&gt;
 	&lt;audio controls
-		src=&quot;/4f363aaa5b5fa801db9f14b977a396b5/kyle_ep_03kyle_hp_03_5_exp5_fullnorm05.mp3&quot;&gt;
+		src=&quot;/maciek.github.io/4f363aaa5b5fa801db9f14b977a396b5/kyle_ep_03kyle_hp_03_5_exp5_fullnorm05.mp3&quot;&gt;
 	&lt;/audio&gt;
 &lt;/figure&gt;
 &lt;/center&gt;
@@ -740,35 +740,35 @@
 &lt;figure&gt;
     &lt;figcaption&gt;Input A&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/82a371e88cfd6f0e51d6a71ddbc7a306/kyle_gs_01mason_km_02_6_exp6_fullnorm07.wav&quot;&gt;
+        src=&quot;/maciek.github.io/82a371e88cfd6f0e51d6a71ddbc7a306/kyle_gs_01mason_km_02_6_exp6_fullnorm07.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Input B&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/d51af04e2f6770a08259ed18237a0f7a/kyle_gs_01mason_km_02_6_exp6_fullnorm07.wav&quot;&gt;
+        src=&quot;/maciek.github.io/d51af04e2f6770a08259ed18237a0f7a/kyle_gs_01mason_km_02_6_exp6_fullnorm07.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Loss 1 (Vanilla AST - Content A + Style B)&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/59000e39e73e29e401762f2b27bb1a73/kyle_gs_01mason_km_02_6_exp6_fullnorm07.wav&quot;&gt;
+        src=&quot;/maciek.github.io/59000e39e73e29e401762f2b27bb1a73/kyle_gs_01mason_km_02_6_exp6_fullnorm07.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Loss 2 (Mashup - Style A + Style B)&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/ac2f07f9d9f41cbf858e24303fbdf1db/kyle_gs_01mason_km_02_6_exp6_fullnorm07.wav&quot;&gt;
+        src=&quot;/maciek.github.io/ac2f07f9d9f41cbf858e24303fbdf1db/kyle_gs_01mason_km_02_6_exp6_fullnorm07.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Loss 3 (Augmented Mashup - Style A + Style B + Content B)&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/dfedc9adfa302ef842df02840529a79b/kyle_gs_01mason_km_02_6_exp6_fullnorm07.wav&quot;&gt;
+        src=&quot;/maciek.github.io/dfedc9adfa302ef842df02840529a79b/kyle_gs_01mason_km_02_6_exp6_fullnorm07.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Vanilla AST (Barry 2018)&lt;/figcaption&gt;
 	&lt;audio controls
-		src=&quot;/f69c9ea30efdbc69886c4e17f448daaa/kyle_gs_01mason_km_02_6_exp6_fullnorm06.mp3&quot;&gt;
+		src=&quot;/maciek.github.io/f69c9ea30efdbc69886c4e17f448daaa/kyle_gs_01mason_km_02_6_exp6_fullnorm06.mp3&quot;&gt;
 	&lt;/audio&gt;
 	&lt;figcaption&gt;Vanilla AST (Mital 2017)&lt;/figcaption&gt;
 	&lt;audio controls
-		src=&quot;/2ff4f270b2c27edd68a4284963b495a8/kyle_gs_01mason_km_02_6_exp6_fullnorm06.mp3&quot;&gt;
+		src=&quot;/maciek.github.io/2ff4f270b2c27edd68a4284963b495a8/kyle_gs_01mason_km_02_6_exp6_fullnorm06.mp3&quot;&gt;
 	&lt;/audio&gt;
 	&lt;figcaption&gt;Vanilla AST (Ulyanov 2016)&lt;/figcaption&gt;
 	&lt;audio controls
-		src=&quot;/15af070b9a8cdcfe0feaf6a465f65bcb/kyle_gs_01mason_km_02_6_exp6_fullnorm06.mp3&quot;&gt;
+		src=&quot;/maciek.github.io/15af070b9a8cdcfe0feaf6a465f65bcb/kyle_gs_01mason_km_02_6_exp6_fullnorm06.mp3&quot;&gt;
 	&lt;/audio&gt;
 &lt;/figure&gt;
 &lt;/center&gt;
@@ -778,35 +778,35 @@
 &lt;figure&gt;
     &lt;figcaption&gt;Input A&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/bef8eb1c1d31a728ea0a2022bb4240ad/kyle_gs_03mason_e_02_9_exp9_fullnorm09.wav&quot;&gt;
+        src=&quot;/maciek.github.io/bef8eb1c1d31a728ea0a2022bb4240ad/kyle_gs_03mason_e_02_9_exp9_fullnorm09.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Input B&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/dba5ef9c8c00903a17cc98baf60ab0ce/kyle_gs_03mason_e_02_9_exp9_fullnorm09.wav&quot;&gt;
+        src=&quot;/maciek.github.io/dba5ef9c8c00903a17cc98baf60ab0ce/kyle_gs_03mason_e_02_9_exp9_fullnorm09.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Loss 1 (Vanilla AST - Content A + Style B)&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/664f142d1eba02dc29edbdafeee79f88/kyle_gs_03mason_e_02_9_exp9_fullnorm09.wav&quot;&gt;
+        src=&quot;/maciek.github.io/664f142d1eba02dc29edbdafeee79f88/kyle_gs_03mason_e_02_9_exp9_fullnorm09.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Loss 2 (Mashup - Style A + Style B)&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/197c1c19cffdebbd29657b494908c466/kyle_gs_03mason_e_02_9_exp9_fullnorm09.wav&quot;&gt;
+        src=&quot;/maciek.github.io/197c1c19cffdebbd29657b494908c466/kyle_gs_03mason_e_02_9_exp9_fullnorm09.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Loss 3 (Augmented Mashup - Style A + Style B + Content B)&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/acb36f6de4fb81d12eb45bc76e5cc128/kyle_gs_03mason_e_02_9_exp9_fullnorm09.wav&quot;&gt;
+        src=&quot;/maciek.github.io/acb36f6de4fb81d12eb45bc76e5cc128/kyle_gs_03mason_e_02_9_exp9_fullnorm09.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Vanilla AST (Barry 2018)&lt;/figcaption&gt;
 	&lt;audio controls
-		src=&quot;/6a4d1d667d176dfbc5b44f589d54c10a/kyle_gs_03mason_e_02_9_exp9_fullnorm08.mp3&quot;&gt;
+		src=&quot;/maciek.github.io/6a4d1d667d176dfbc5b44f589d54c10a/kyle_gs_03mason_e_02_9_exp9_fullnorm08.mp3&quot;&gt;
 	&lt;/audio&gt;
 	&lt;figcaption&gt;Vanilla AST (Mital 2017)&lt;/figcaption&gt;
 	&lt;audio controls
-		src=&quot;/6cab09fe7698def00afe56db749375ee/kyle_gs_03mason_e_02_9_exp9_fullnorm08.mp3&quot;&gt;
+		src=&quot;/maciek.github.io/6cab09fe7698def00afe56db749375ee/kyle_gs_03mason_e_02_9_exp9_fullnorm08.mp3&quot;&gt;
 	&lt;/audio&gt;
 	&lt;figcaption&gt;Vanilla AST (Ulyanov 2016)&lt;/figcaption&gt;
 	&lt;audio controls
-		src=&quot;/49df00509d356360d46db4c93c7d7a0a/kyle_gs_03mason_e_02_9_exp9_fullnorm08.mp3&quot;&gt;
+		src=&quot;/maciek.github.io/49df00509d356360d46db4c93c7d7a0a/kyle_gs_03mason_e_02_9_exp9_fullnorm08.mp3&quot;&gt;
 	&lt;/audio&gt;
 &lt;/figure&gt;
 &lt;/center&gt;
@@ -816,35 +816,35 @@
 &lt;figure&gt;
     &lt;figcaption&gt;Input A&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/4d68db40e8aa434b6d1718b48698fe04/kyle_ctp_01kyle_nk_02_0_exp0_fullnorm03.wav&quot;&gt;
+        src=&quot;/maciek.github.io/4d68db40e8aa434b6d1718b48698fe04/kyle_ctp_01kyle_nk_02_0_exp0_fullnorm03.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Input B&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/9c1d26197abcb7a23d13f74fcf36ca27/kyle_ctp_01kyle_nk_02_0_exp0_fullnorm03.wav&quot;&gt;
+        src=&quot;/maciek.github.io/9c1d26197abcb7a23d13f74fcf36ca27/kyle_ctp_01kyle_nk_02_0_exp0_fullnorm03.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Loss 1 (Vanilla AST - Content A + Style B)&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/add9751a727a06cc0ec5c4b9c300c157/kyle_ctp_01kyle_nk_02_0_exp0_fullnorm03.wav&quot;&gt;
+        src=&quot;/maciek.github.io/add9751a727a06cc0ec5c4b9c300c157/kyle_ctp_01kyle_nk_02_0_exp0_fullnorm03.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Loss 2 (Mashup - Style A + Style B)&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/342844bc098d4acc63e60e06007f2615/kyle_ctp_01kyle_nk_02_0_exp0_fullnorm03.wav&quot;&gt;
+        src=&quot;/maciek.github.io/342844bc098d4acc63e60e06007f2615/kyle_ctp_01kyle_nk_02_0_exp0_fullnorm03.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Loss 3 (Augmented Mashup - Style A + Style B + Content B)&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/86221543cb5237c4f51e029842cac29b/kyle_ctp_01kyle_nk_02_0_exp0_fullnorm03.wav&quot;&gt;
+        src=&quot;/maciek.github.io/86221543cb5237c4f51e029842cac29b/kyle_ctp_01kyle_nk_02_0_exp0_fullnorm03.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Vanilla AST (Barry 2018)&lt;/figcaption&gt;
 	&lt;audio controls
-		src=&quot;/fdf324c280f5fa1eea1c3ef310307bb0/kyle_ctp_01kyle_nk_02_0_exp0_fullnorm02.mp3&quot;&gt;
+		src=&quot;/maciek.github.io/fdf324c280f5fa1eea1c3ef310307bb0/kyle_ctp_01kyle_nk_02_0_exp0_fullnorm02.mp3&quot;&gt;
 	&lt;/audio&gt;
 	&lt;figcaption&gt;Vanilla AST (Mital 2017)&lt;/figcaption&gt;
 	&lt;audio controls
-		src=&quot;/7eb83544cb8957db0668f3646b900214/kyle_ctp_01kyle_nk_02_0_exp0_fullnorm02.mp3&quot;&gt;
+		src=&quot;/maciek.github.io/7eb83544cb8957db0668f3646b900214/kyle_ctp_01kyle_nk_02_0_exp0_fullnorm02.mp3&quot;&gt;
 	&lt;/audio&gt;
 	&lt;figcaption&gt;Vanilla AST (Ulyanov 2016)&lt;/figcaption&gt;
 	&lt;audio controls
-		src=&quot;/9812297609a7d09a870c47b49c1955df/kyle_ctp_01kyle_nk_02_0_exp0_fullnorm02.mp3&quot;&gt;
+		src=&quot;/maciek.github.io/9812297609a7d09a870c47b49c1955df/kyle_ctp_01kyle_nk_02_0_exp0_fullnorm02.mp3&quot;&gt;
 	&lt;/audio&gt;
 &lt;/figure&gt;
 &lt;/center&gt;
@@ -854,35 +854,35 @@
 &lt;figure&gt;
     &lt;figcaption&gt;Input A&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/1839df24ac4587ac5ae37ea11234aa13/kyle_mt_01mason_km_01_7_exp7_fullnorm11.wav&quot;&gt;
+        src=&quot;/maciek.github.io/1839df24ac4587ac5ae37ea11234aa13/kyle_mt_01mason_km_01_7_exp7_fullnorm11.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Input B&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/4c8d8ef7e9e186db2e5c1d28866ee1da/kyle_mt_01mason_km_01_7_exp7_fullnorm11.wav&quot;&gt;
+        src=&quot;/maciek.github.io/4c8d8ef7e9e186db2e5c1d28866ee1da/kyle_mt_01mason_km_01_7_exp7_fullnorm11.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Loss 1 (Vanilla AST - Content A + Style B)&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/8918f05d6e81c3f90105c427f3ead738/kyle_mt_01mason_km_01_7_exp7_fullnorm11.wav&quot;&gt;
+        src=&quot;/maciek.github.io/8918f05d6e81c3f90105c427f3ead738/kyle_mt_01mason_km_01_7_exp7_fullnorm11.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Loss 2 (Mashup - Style A + Style B)&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/ec2c404718dac0a50ee3efea4ea94cf4/kyle_mt_01mason_km_01_7_exp7_fullnorm11.wav&quot;&gt;
+        src=&quot;/maciek.github.io/ec2c404718dac0a50ee3efea4ea94cf4/kyle_mt_01mason_km_01_7_exp7_fullnorm11.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Loss 3 (Augmented Mashup - Style A + Style B + Content B)&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/a522fdc28a90e2e98bcd6700fad02283/kyle_mt_01mason_km_01_7_exp7_fullnorm11.wav&quot;&gt;
+        src=&quot;/maciek.github.io/a522fdc28a90e2e98bcd6700fad02283/kyle_mt_01mason_km_01_7_exp7_fullnorm11.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Vanilla AST (Barry 2018)&lt;/figcaption&gt;
 	&lt;audio controls
-		src=&quot;/b12ec67029a9815ae3af3d8fb5050372/kyle_mt_01mason_km_01_7_exp7_fullnorm10.mp3&quot;&gt;
+		src=&quot;/maciek.github.io/b12ec67029a9815ae3af3d8fb5050372/kyle_mt_01mason_km_01_7_exp7_fullnorm10.mp3&quot;&gt;
 	&lt;/audio&gt;
 	&lt;figcaption&gt;Vanilla AST (Mital 2017)&lt;/figcaption&gt;
 	&lt;audio controls
-		src=&quot;/d0719c5e847a39cf6976472d71716842/kyle_mt_01mason_km_01_7_exp7_fullnorm10.mp3&quot;&gt;
+		src=&quot;/maciek.github.io/d0719c5e847a39cf6976472d71716842/kyle_mt_01mason_km_01_7_exp7_fullnorm10.mp3&quot;&gt;
 	&lt;/audio&gt;
 	&lt;figcaption&gt;Vanilla AST (Ulyanov 2016)&lt;/figcaption&gt;
 	&lt;audio controls
-		src=&quot;/47cad26dabb46759acfc0a8d330cc52b/kyle_mt_01mason_km_01_7_exp7_fullnorm10.mp3&quot;&gt;
+		src=&quot;/maciek.github.io/47cad26dabb46759acfc0a8d330cc52b/kyle_mt_01mason_km_01_7_exp7_fullnorm10.mp3&quot;&gt;
 	&lt;/audio&gt;
 &lt;/figure&gt;
 &lt;/center&gt;
@@ -892,35 +892,35 @@
 &lt;figure&gt;
     &lt;figcaption&gt;Input A&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/dd20300ddcf4d2c91a9b0658b4a8c949/kyle_nk_01kyle_hp_01_4_exp4_fullnorm14.wav&quot;&gt;
+        src=&quot;/maciek.github.io/dd20300ddcf4d2c91a9b0658b4a8c949/kyle_nk_01kyle_hp_01_4_exp4_fullnorm14.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Input B&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/5b5e8d9523f1522d800fa103693952a8/kyle_nk_01kyle_hp_01_4_exp4_fullnorm14.wav&quot;&gt;
+        src=&quot;/maciek.github.io/5b5e8d9523f1522d800fa103693952a8/kyle_nk_01kyle_hp_01_4_exp4_fullnorm14.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Loss 1 (Vanilla AST - Content A + Style B)&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/8e1d192ffb2ed2802e7998a5948d4f4f/kyle_nk_01kyle_hp_01_4_exp4_fullnorm14.wav&quot;&gt;
+        src=&quot;/maciek.github.io/8e1d192ffb2ed2802e7998a5948d4f4f/kyle_nk_01kyle_hp_01_4_exp4_fullnorm14.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Loss 2 (Mashup - Style A + Style B)&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/031314b455244fda1df8b94d4e9f65b6/kyle_nk_01kyle_hp_01_4_exp4_fullnorm14.wav&quot;&gt;
+        src=&quot;/maciek.github.io/031314b455244fda1df8b94d4e9f65b6/kyle_nk_01kyle_hp_01_4_exp4_fullnorm14.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Loss 3 (Augmented Mashup - Style A + Style B + Content B)&lt;/figcaption&gt;
     &lt;audio controls
-        src=&quot;/7ddcab20a419142d1cf693b10c13a10c/kyle_nk_01kyle_hp_01_4_exp4_fullnorm14.wav&quot;&gt;
+        src=&quot;/maciek.github.io/7ddcab20a419142d1cf693b10c13a10c/kyle_nk_01kyle_hp_01_4_exp4_fullnorm14.wav&quot;&gt;
     &lt;/audio&gt;
 	&lt;figcaption&gt;Vanilla AST (Barry 2018)&lt;/figcaption&gt;
 	&lt;audio controls
-		src=&quot;/3e89a2db9c1f09b301a0200e01dbd1fb/kyle_nk_01kyle_hp_01_4_exp4_fullnorm13.mp3&quot;&gt;
+		src=&quot;/maciek.github.io/3e89a2db9c1f09b301a0200e01dbd1fb/kyle_nk_01kyle_hp_01_4_exp4_fullnorm13.mp3&quot;&gt;
 	&lt;/audio&gt;
 	&lt;figcaption&gt;Vanilla AST (Mital 2017)&lt;/figcaption&gt;
 	&lt;audio controls
-		src=&quot;/624d64d5734e35f491d39449d9cdc930/kyle_nk_01kyle_hp_01_4_exp4_fullnorm13.mp3&quot;&gt;
+		src=&quot;/maciek.github.io/624d64d5734e35f491d39449d9cdc930/kyle_nk_01kyle_hp_01_4_exp4_fullnorm13.mp3&quot;&gt;
 	&lt;/audio&gt;
 	&lt;figcaption&gt;Vanilla AST (Ulyanov 2016)&lt;/figcaption&gt;
 	&lt;audio controls
-		src=&quot;/773f65f42d45d2997600928205becb94/kyle_nk_01kyle_hp_01_4_exp4_fullnorm13.mp3&quot;&gt;
+		src=&quot;/maciek.github.io/773f65f42d45d2997600928205becb94/kyle_nk_01kyle_hp_01_4_exp4_fullnorm13.mp3&quot;&gt;
 	&lt;/audio&gt;
 &lt;/figure&gt;
 &lt;/center&gt;
