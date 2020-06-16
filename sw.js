@@ -26,10 +26,10 @@ workbox.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-ac641fdc9543f1808189.js"
+    "url": "webpack-runtime-7a80ac623419c7113a96.js"
   },
   {
-    "url": "styles.443b421c16fee5b1ddc7.css"
+    "url": "styles.e620a4f5023c7ac8c71b.css"
   },
   {
     "url": "styles-503b3015a8b38c118cb7.js"
@@ -38,26 +38,18 @@ self.__precacheManifest = [
     "url": "framework-0204bf4e920e001ced67.js"
   },
   {
-    "url": "app-ee05ef413115aa6dfa66.js"
+    "url": "app-8648d0c8827664ce503c.js"
   },
   {
     "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-e385def15e29b6ed02a7.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "2e9b00905a5342b19e0dd5913a791c6e"
-  },
-  {
-    "url": "page-data/offline-plugin-app-shell-fallback/page-data.json",
-    "revision": "c355c8040c47a63bfb3360e4b7cb6553"
-  },
-  {
-    "url": "page-data/app-data.json",
-    "revision": "70da1c988d442401a35529092972399f"
+    "revision": "676f93d9699448272ab9fa669e7462ed"
   },
   {
     "url": "manifest.webmanifest",
-    "revision": "1b8f4c3457c26e58ddc21b6cfb401866"
+    "revision": "b9ca05980250013ebe9326ceefa8b327"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
@@ -76,12 +68,12 @@ const { NavigationRoute } = workbox.routing
 
 const navigationRoute = new NavigationRoute(async ({ event }) => {
   let { pathname } = new URL(event.request.url)
-  pathname = pathname.replace(new RegExp(`^/maciek.github.io`), ``)
+  pathname = pathname.replace(new RegExp(`^`), ``)
 
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/maciek.github.io/app-ee05ef413115aa6dfa66.js`))) {
+  if (!resources || !(await caches.match(`/app-8648d0c8827664ce503c.js`))) {
     return await fetch(event.request)
   }
 
@@ -94,7 +86,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
     }
   }
 
-  const offlineShell = `/maciek.github.io/offline-plugin-app-shell-fallback/index.html`
+  const offlineShell = `/offline-plugin-app-shell-fallback/index.html`
   return await caches.match(offlineShell)
 })
 
