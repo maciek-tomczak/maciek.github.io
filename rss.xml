@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Maciek Tomczak]]></title><description><![CDATA[I invite you to check out what I've been up to.]]></description><link>https://maciek-tomczak.github.io/maciek.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 16 Jun 2020 16:36:58 GMT</lastBuildDate><item><title><![CDATA[Drum Translation for Timbral and Rhythmic Transformation]]></title><description><![CDATA[Tomczak, M., J., Drysdale, J., Hockman, Drum Translation for Timbral and Rhythmic Transformation, Proceedings of the 22nd International…]]></description><link>https://maciek-tomczak.github.io/maciek.github.io/Drum-Translation-for-Timbral-and-Rhythmic-Transformation/</link><guid isPermaLink="false">https://maciek-tomczak.github.io/maciek.github.io/Drum-Translation-for-Timbral-and-Rhythmic-Transformation/</guid><pubDate>Fri, 12 Apr 2019 00:00:00 GMT</pubDate><content:encoded>&lt;table&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Maciek Tomczak]]></title><description><![CDATA[I invite you to check out what I've been up to.]]></description><link>https://maciek-tomczak.github.io/maciek.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 16 Jun 2020 16:41:20 GMT</lastBuildDate><item><title><![CDATA[Drum Translation for Timbral and Rhythmic Transformation]]></title><description><![CDATA[Tomczak, M., J., Drysdale, J., Hockman, Drum Translation for Timbral and Rhythmic Transformation, Proceedings of the 22nd International…]]></description><link>https://maciek-tomczak.github.io/maciek.github.io/Drum-Translation-for-Timbral-and-Rhythmic-Transformation/</link><guid isPermaLink="false">https://maciek-tomczak.github.io/maciek.github.io/Drum-Translation-for-Timbral-and-Rhythmic-Transformation/</guid><pubDate>Fri, 12 Apr 2019 00:00:00 GMT</pubDate><content:encoded>&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th align=&quot;left&quot;&gt;&lt;/th&gt;
@@ -1257,7 +1257,165 @@ This time I want to show you a vocal aligning plugin I’ve recently found and s
 &lt;p&gt;This is the band that I used for the above examples, Make Sure You Check Their YT Channel: &lt;a href=&quot;http://www.youtube.com/user/JetfaceGroup&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;JetfaceGroup – YouTube&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;h3&gt;&lt;/h3&gt;
-Maciek</content:encoded></item><item><title><![CDATA[Audio Compression Quality]]></title><description><![CDATA[I wrote the following article back when I was an undergrad finishing my first year at Birmingham City University in 2013. Coincidentally, to…]]></description><link>https://maciek-tomczak.github.io/maciek.github.io/Audio-Compression-Quality/</link><guid isPermaLink="false">https://maciek-tomczak.github.io/maciek.github.io/Audio-Compression-Quality/</guid><pubDate>Fri, 19 Dec 2014 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I wrote the following article back when I was an undergrad finishing my first year at Birmingham City University in 2013. Coincidentally, to my surprise the same experiment I describe here was given to me in class by my DSP professor Ian Williams a few weeks after I published this. Anyway, after revisiting these tests in 2020 I can sum them up with the good ol’ &lt;em&gt;it depends&lt;/em&gt; :)&lt;/p&gt;
+Maciek</content:encoded></item><item><title><![CDATA[Audio Ripping and Compression]]></title><description><![CDATA[Bare in mind I wrote the following article back when I was an undergrad finishing my first year at Birmingham City University in 201…]]></description><link>https://maciek-tomczak.github.io/maciek.github.io/Audio-Ripping-and-Compression/</link><guid isPermaLink="false">https://maciek-tomczak.github.io/maciek.github.io/Audio-Ripping-and-Compression/</guid><pubDate>Fri, 19 Dec 2014 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Bare in mind I wrote the following article back when I was an undergrad finishing my first year at Birmingham City University in 2013.&lt;/p&gt;
+&lt;p&gt;Original article is posted &lt;a href=&quot;https://maciekonsound.wordpress.com/2014/12/19/audio-ripping-and-compression/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h4&gt;Audio Ripping and Compression&lt;/h4&gt;
+&lt;p style=&quot;text-align:left;&quot; align=&quot;CENTER&quot;&gt;Recently I’ve been really interested in the whole talk about audio quality. I really value ‘good’ quality recordings and cherish the moments when I have access to these, but I was never too obsessed about it. Everyone will have their own interpretation of what sounds good anyways. Ha! And that is what’s really interesting.&lt;/p&gt;
+While I do not lament when I sometimes listen to 128kbps Mp3 files, I believe it is important to be able to compress audio files correctly because the poorly processed ones can ruin our ears forever... Or, for example, negate the advantages of an expensive speaker set that we may use.
+&lt;p&gt;So I will present a method of audio ripping that will allow anyone to be left with a really good quality compressed files, as well as a little experiment, which hopefully will once and for all, save me from wasting my time thinking about differences in quality between an uncompressed audio file and a ‘correctly’ compressed Mp3 file.&lt;/p&gt;
+&lt;p&gt;The first step is to find a CD that you would like to burn and then check it for any possible scratches. CDs are made from polycarbonate plastic (Macrolon) which is a sturdy and strong material that sadly scratches quite easily. The designers saw that coming and planned for it. The Red Book Standards for Audio Compact Discs enforces an error correction system that allows CD players to deduce a surprising amount of data based on the data which comes before and after a scratch.&lt;/p&gt;
+&lt;p&gt;Furthermore, the data is not stored on the shiny part of the CD, but is actually stored on the label side (the program area). The CD player’s laser has to make its way through a layer of plastic till it reaches the disc’s data. So after all, a small scratch on the back surface of a CD is not as dangerous as it may seem.&lt;/p&gt;
+&lt;p&gt;OK, so if you got that far and think that few facts about the program area of a CD will spoil this reading then just skip to the next paragraph… The program area of a CD also conforms to Red Book standards. Data is stored internally in a series of “bumps” known as “pits”. These pits are located in a single spiral track of TDM (time-division multiplexing) data. The data pits come in 8 different lengths: from 0.833μm to 3.56μm. The varying length and distance between the pits is how the digital audio information is stored in NRZI (the NRZI stands for non-return to zero inverted and is one of the most popular languages used for Pulse Code Modulation (PCM)).&lt;/p&gt;
+&lt;p&gt;So, once you’ve chosen a CD that you are satisfied with, you will need a piece of software that will allow you to rip and compress it. I’m using &lt;a title=&quot;Switch Audio File Converter Software&quot; href=&quot;http://www.nch.com.au/switch/index.html&quot; target=&quot;_blank&quot;&gt;Switch&lt;/a&gt;, which works both on pc and mac. Once you have opened any reasonable audio file converter software then I would take a moment, and poke around the encoding tab. It should look like this.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/2a90ea8b037b0a3a62da6588ccedca5f/e8022/1.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 534px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 77.05882352941177%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAIAAABr+ngCAAAACXBIWXMAAAsSAAALEgHS3X78AAABx0lEQVQoz21SW26kMBDk/sfJx0p7gISIwUDANgzYmEcwBs/jClvQE5RktiTAtLu6qx+Bc44LITiXpZzned2x7MAVHjrMT4BbgLu6rnnBi6IQUlZVlX1kwzB8fmGaps//4UFu2zZNkjRNGWMcYTgfx9FaCxqiGGNwsD8BBxCDZZNku67TWsGv73pIMq1BxK7rQcbhOS3sG3l2TpxbKXiapHmeI39eFCCgFsSi/OMTwCfyksnmPQxZHL+9hVEUhe+hMR3R+r4nhe4nvmQvi51GVJwwdopOcRwjUByzaYfWWgrxq+GIC1EPct93SAvZsizLqkTDzueKakMvMEe8QVi/4VEzHjiBIKW0dgtLsWlKoMHOEoYWkJ3KgX0jIwwu8L5cLrQebl8MwpHqV9n4hX+AUrAeTdPoHZjo9A3IAAUH4cBjSdCIPP9I04yxODpF8EYL0GRaMikFxnYI3jFjY8whuzMmAzvLIGH7phkvhFaKyiOAj+liLss0rs4udvR+Dcjjdruhhvv9Pgy9UqppVCmlm931evXeQwsst6sXxv9J/Mur+pv5ZvABNYOctsU0BvUrrZq6pk0A9uXVi5vNuJyqKeItO0+jXf8BcSEXG/AiOJAAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/2a90ea8b037b0a3a62da6588ccedca5f/51a8e/1.webp 340w,
+/static/2a90ea8b037b0a3a62da6588ccedca5f/76fa8/1.webp 534w&quot;
+          sizes=&quot;(max-width: 534px) 100vw, 534px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/2a90ea8b037b0a3a62da6588ccedca5f/ad208/1.png 340w,
+/static/2a90ea8b037b0a3a62da6588ccedca5f/e8022/1.png 534w&quot;
+          sizes=&quot;(max-width: 534px) 100vw, 534px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/2a90ea8b037b0a3a62da6588ccedca5f/e8022/1.png&quot;
+          alt=&quot;1&quot;
+          title=&quot;&quot;
+          src=&quot;/static/2a90ea8b037b0a3a62da6588ccedca5f/e8022/1.png&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;These are the settings I’d use for creating high quality Mp3s. I’ll write a little bit about the details after.&lt;/p&gt;
+&lt;p&gt;Encoder itself is one of the applications to encode audio to Mp3 files so they take far less storage space. This is called lossy compression. On that note, many people think compression equals a reduction in data and quality let say Mp3, MPEG, DTS and JPEG. Well, this is not always the case. Few examples of lossless compression: ZIP, RAR, TIFF, MLP. But back to the encoder. The encoder uses two different compression methods namely, CBR or VBR (see above settings).&lt;/p&gt;
+&lt;p&gt;CBR stands for constant bit rate, which basically means that you tell the encoder to express every second of audio with a certain number of bits, and it does just that. It will give every single second of audio the same amount of space. There is nothing really bad about this method, it is simply very wasteful and produces bigger file sizes than VBR. Hence, somebody smart came up with another method called VBR.&lt;/p&gt;
+&lt;p&gt;VBR stands for variable bit rate and is the most commonly used encoding type. With VBR the encoder considers every section of audio very carefully and decides how many bits it would take to encode it with the desired level of quality. This means that the bit rate can actually drop to almost nothing in the parts where there is silence, shoot up to high hundreds when the song starts, and peak at the limits of the encoder during particularly delicate passages.&lt;/p&gt;
+&lt;p&gt;Mode in the stereo encoding section, I would leave on joint stereo as it offers better quality. In the joint stereo the encoder can spend the available bits more efficiently than normal stereo mode. There is a technique involved known as&lt;a title=&quot;Joint Frequency Encoding&quot; href=&quot;http://en.wikipedia.org/wiki/Joint_(audio_engineering)&quot; target=&quot;_blank&quot;&gt; joint frequency encoding&lt;/a&gt;, which functions on principle of &lt;a title=&quot;Sound localization&quot; href=&quot;http://en.wikipedia.org/wiki/Sound_localization&quot; target=&quot;_blank&quot;&gt;sound localization&lt;/a&gt;. It stores one channel as the difference from the other as opposed to an entire second audio stream.&lt;/p&gt;
+&lt;p&gt;Quality is the deceiving one. It basically tells the encoder how many shortcuts can it take during the analysis and compression process. When (q=0) the encoder does everything super accurately. When you set it to 9 it will do everything in a more ‘clumsy’ manner. The technology has moved by quite a lot since 1993, so nobody would really use low quality encoding today.&lt;/p&gt;
+&lt;p&gt;CRC stands for a cyclic redundancy check and is an error-detecting code commonly used in digital networks and storage devices. I don’t know what real advantage it will bring to this compression process so leaving it alone, and unchecked should be completely acceptable.&lt;/p&gt;
+&lt;p&gt;If I’m using a VBR then I want the encoder to have access to the widest range of bit rates possible. The minimum should be at 32 and the maximum should be at 320.&lt;/p&gt;
+&lt;p&gt;The output sample rate is not shown in this window but I know it is going to be the original CD sample rate, which again thanks to the Red Book Standards, is said to be 44,100kHz.&lt;/p&gt;
+&lt;p&gt;OK, lets get down to business.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c4c1dc131f96cc4799b65dc286e0d6d5/539c8/2.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 979px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 42.94117647058824%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAIAAAC9o5sfAAAACXBIWXMAAAsSAAALEgHS3X78AAABZ0lEQVQoz42NV2+jQBRG5///FysPKJhNKNHKC7jQDDh25F0ggdBLmKGOAwuWnNfk09HR1S26QNbW2l56OZ1+C6osa5qq7I3DccMZ6na7kwxdN27RDd00D1t5s5PX5l4ytwLguAfmiRJ5nvz1xLCcKPKiuJb+sMpOUFVNkecoN1RF4QWe51fSeiUJK3A+264XxWkRxokfxqju6ha3l7HDQ4uHL3/RX8b+c+ymhcsADsdzXtZhUrh+7LhBXjZVe2nw+D39CN7eo+yjSnIYRNl7mJRVNx/3w08Amn4I4zxKijcvtByvgPPnFo/f0H9OBl6YlnWf5CjKyrRAsO5Rg6d71NSogVU7GcMaXz2P4BXUDVWDgeu6QRB4nuf7fpKmWZ6XECIEbdt8fhb/nvdTz3FeLcu2bNtxHMt2Iu81+7eJkhQsFou7a+jHx+WSJAiCpmmO40iSIgjy/n7JsixFUXN1C0PTzMOSYdj/IIrgAUk5DjAAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/c4c1dc131f96cc4799b65dc286e0d6d5/51a8e/2.webp 340w,
+/static/c4c1dc131f96cc4799b65dc286e0d6d5/713b7/2.webp 680w,
+/static/c4c1dc131f96cc4799b65dc286e0d6d5/bc206/2.webp 979w&quot;
+          sizes=&quot;(max-width: 979px) 100vw, 979px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/c4c1dc131f96cc4799b65dc286e0d6d5/ad208/2.png 340w,
+/static/c4c1dc131f96cc4799b65dc286e0d6d5/a5a26/2.png 680w,
+/static/c4c1dc131f96cc4799b65dc286e0d6d5/539c8/2.png 979w&quot;
+          sizes=&quot;(max-width: 979px) 100vw, 979px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/c4c1dc131f96cc4799b65dc286e0d6d5/539c8/2.png&quot;
+          alt=&quot;2&quot;
+          title=&quot;&quot;
+          src=&quot;/static/c4c1dc131f96cc4799b65dc286e0d6d5/539c8/2.png&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Above you can see all loaded tracks in .aiff file format. All that’s left to do is to click convert and all the magic will be done for us.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/48076eb0f3f2b6696182275033d8b7f8/686e5/3.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 978px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 42.94117647058824%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAIAAAC9o5sfAAAACXBIWXMAAAsSAAALEgHS3X78AAABcklEQVQoz2VRaW+DMAzl//+f7dM6jbNtgFAIgR6oINRCUo7uAFq6js5phTRp1ov1YtmxnyMR6oTLYBmGLgl9n1LqE5+ufSf0PdvGAaVBEIjoaMT3AAEloedKqiqrmmzo+pusyYpiGIYKXn4xNFkHrqqaps9mM9u2HAc7GJsmQibCloCkKApCyHOhjzDopCFHx0EQJVG0CcNlHMeMsaY7X663/nu443YWGKTJ5JUQAhPO52g6NWAmmpZuWq93Bc9zxnkSx1EUfbV9fxU1pxHApTkyQYnneRg79850u1mVnNVVVZQC/FBwXjTdRdRchr+Qnp+fTNO0LAvUKqrqui7spP5oz9dH6mPC/xhE51WU7PMiSbNtsovT/S7jGSs+2x4q4YGu/wH/QDOSO0Rcqqr6eHyHA75p2rbtuu4EpKoqEMwYh4ScsSzLszwXJGcHzqtsWxSlBDoxFnuGtYHyxWIBK4C/hStIgMjIgXoihRAq/l3EfwFMZ9hweEEolQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/48076eb0f3f2b6696182275033d8b7f8/51a8e/3.webp 340w,
+/static/48076eb0f3f2b6696182275033d8b7f8/713b7/3.webp 680w,
+/static/48076eb0f3f2b6696182275033d8b7f8/3b122/3.webp 978w&quot;
+          sizes=&quot;(max-width: 978px) 100vw, 978px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/48076eb0f3f2b6696182275033d8b7f8/ad208/3.png 340w,
+/static/48076eb0f3f2b6696182275033d8b7f8/a5a26/3.png 680w,
+/static/48076eb0f3f2b6696182275033d8b7f8/686e5/3.png 978w&quot;
+          sizes=&quot;(max-width: 978px) 100vw, 978px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/48076eb0f3f2b6696182275033d8b7f8/686e5/3.png&quot;
+          alt=&quot;3&quot;
+          title=&quot;&quot;
+          src=&quot;/static/48076eb0f3f2b6696182275033d8b7f8/686e5/3.png&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;The conversion of all the files will take a while. After the conversion finishes, you are done. You’ve just converted losses CD files into a ‘very good’ quality lossy files. OK, but that’s still just talking. So in the&lt;a title=&quot;Listening Tests&quot; href=&quot;https://maciek-tomczak.github.io/maciek.github.io/Audio-Compression-Quality/&quot;&gt; next post&lt;/a&gt; I’ll test how good they actually are when compared.&lt;/p&gt;
+&lt;p&gt;Maciek&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Audio Compression Quality]]></title><description><![CDATA[I wrote the following article back when I was an undergrad finishing my first year at Birmingham City University in 2013. Coincidentally, to…]]></description><link>https://maciek-tomczak.github.io/maciek.github.io/Audio-Compression-Quality/</link><guid isPermaLink="false">https://maciek-tomczak.github.io/maciek.github.io/Audio-Compression-Quality/</guid><pubDate>Fri, 19 Dec 2014 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I wrote the following article back when I was an undergrad finishing my first year at Birmingham City University in 2013. Coincidentally, to my surprise the same experiment I describe here was given to me in class by my DSP professor Ian Williams a few weeks after I published this. Anyway, after revisiting these tests in 2020 I can sum them up with the good ol’ &lt;em&gt;it depends&lt;/em&gt; :)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;TL;DR&lt;/strong&gt; A 320kbps VBR Mp3 can be enough but it depends to what you are listening to and what system you are listening that on.&lt;/p&gt;
 &lt;p&gt;Original article is posted &lt;a href=&quot;https://maciekonsound.wordpress.com/2014/12/19/listening-tests/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;h2&gt;Listening Tests&lt;/h2&gt;
@@ -1592,164 +1750,6 @@ But there is a problem.
 &lt;p&gt;Another interesting visual example.&lt;/p&gt;
 &lt;p&gt;&lt;a title=&quot;How to check quality of Mp3 file&quot; href=&quot;http://www.walterdevos.be/how-to-check-quality-of-mp3-file&quot; target=&quot;_blank&quot;&gt;How to check quality of Mp3 file&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;I’d like to thank &lt;a id=&quot;yui-gen18&quot; title=&quot;Bugbrain&apos;s post on Recordingreview.com&quot; href=&quot;http://forum.recordingreview.com/f8/endless-mp3-vs-wav-debate-randomized-blind-listening-test-40661/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Bugbrain&lt;/a&gt;, &lt;a title=&quot;Forum profile&quot; href=&quot;http://www.head-fi.org/u/49722/sir-nobax&quot; target=&quot;_blank&quot;&gt;Nobax&lt;/a&gt;, &lt;a title=&quot;Walter&apos;s blog&quot; href=&quot;http://blog.walterdevos.be/&quot; target=&quot;_blank&quot;&gt;Walter&lt;/a&gt;, and &lt;a title=&quot;Jax&apos;s website&quot; href=&quot;http://www.jax184.com/&quot; target=&quot;_blank&quot;&gt;Jax&lt;/a&gt; for inspiring me to conduct this experiment.&lt;/p&gt;
-&lt;p&gt;Maciek&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Audio Ripping and Compression]]></title><description><![CDATA[Bare in mind I wrote the following article back when I was an undergrad finishing my first year at Birmingham City University in 201…]]></description><link>https://maciek-tomczak.github.io/maciek.github.io/Audio-Ripping-and-Compression/</link><guid isPermaLink="false">https://maciek-tomczak.github.io/maciek.github.io/Audio-Ripping-and-Compression/</guid><pubDate>Fri, 19 Dec 2014 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Bare in mind I wrote the following article back when I was an undergrad finishing my first year at Birmingham City University in 2013.&lt;/p&gt;
-&lt;p&gt;Original article is posted &lt;a href=&quot;https://maciekonsound.wordpress.com/2014/12/19/audio-ripping-and-compression/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;h4&gt;Audio Ripping and Compression&lt;/h4&gt;
-&lt;p style=&quot;text-align:left;&quot; align=&quot;CENTER&quot;&gt;Recently I’ve been really interested in the whole talk about audio quality. I really value ‘good’ quality recordings and cherish the moments when I have access to these, but I was never too obsessed about it. Everyone will have their own interpretation of what sounds good anyways. Ha! And that is what’s really interesting.&lt;/p&gt;
-While I do not lament when I sometimes listen to 128kbps Mp3 files, I believe it is important to be able to compress audio files correctly because the poorly processed ones can ruin our ears forever... Or, for example, negate the advantages of an expensive speaker set that we may use.
-&lt;p&gt;So I will present a method of audio ripping that will allow anyone to be left with a really good quality compressed files, as well as a little experiment, which hopefully will once and for all, save me from wasting my time thinking about differences in quality between an uncompressed audio file and a ‘correctly’ compressed Mp3 file.&lt;/p&gt;
-&lt;p&gt;The first step is to find a CD that you would like to burn and then check it for any possible scratches. CDs are made from polycarbonate plastic (Macrolon) which is a sturdy and strong material that sadly scratches quite easily. The designers saw that coming and planned for it. The Red Book Standards for Audio Compact Discs enforces an error correction system that allows CD players to deduce a surprising amount of data based on the data which comes before and after a scratch.&lt;/p&gt;
-&lt;p&gt;Furthermore, the data is not stored on the shiny part of the CD, but is actually stored on the label side (the program area). The CD player’s laser has to make its way through a layer of plastic till it reaches the disc’s data. So after all, a small scratch on the back surface of a CD is not as dangerous as it may seem.&lt;/p&gt;
-&lt;p&gt;OK, so if you got that far and think that few facts about the program area of a CD will spoil this reading then just skip to the next paragraph… The program area of a CD also conforms to Red Book standards. Data is stored internally in a series of “bumps” known as “pits”. These pits are located in a single spiral track of TDM (time-division multiplexing) data. The data pits come in 8 different lengths: from 0.833μm to 3.56μm. The varying length and distance between the pits is how the digital audio information is stored in NRZI (the NRZI stands for non-return to zero inverted and is one of the most popular languages used for Pulse Code Modulation (PCM)).&lt;/p&gt;
-&lt;p&gt;So, once you’ve chosen a CD that you are satisfied with, you will need a piece of software that will allow you to rip and compress it. I’m using &lt;a title=&quot;Switch Audio File Converter Software&quot; href=&quot;http://www.nch.com.au/switch/index.html&quot; target=&quot;_blank&quot;&gt;Switch&lt;/a&gt;, which works both on pc and mac. Once you have opened any reasonable audio file converter software then I would take a moment, and poke around the encoding tab. It should look like this.&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/2a90ea8b037b0a3a62da6588ccedca5f/e8022/1.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 534px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 77.05882352941177%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAIAAABr+ngCAAAACXBIWXMAAAsSAAALEgHS3X78AAABx0lEQVQoz21SW26kMBDk/sfJx0p7gISIwUDANgzYmEcwBs/jClvQE5RktiTAtLu6qx+Bc44LITiXpZzned2x7MAVHjrMT4BbgLu6rnnBi6IQUlZVlX1kwzB8fmGaps//4UFu2zZNkjRNGWMcYTgfx9FaCxqiGGNwsD8BBxCDZZNku67TWsGv73pIMq1BxK7rQcbhOS3sG3l2TpxbKXiapHmeI39eFCCgFsSi/OMTwCfyksnmPQxZHL+9hVEUhe+hMR3R+r4nhe4nvmQvi51GVJwwdopOcRwjUByzaYfWWgrxq+GIC1EPct93SAvZsizLqkTDzueKakMvMEe8QVi/4VEzHjiBIKW0dgtLsWlKoMHOEoYWkJ3KgX0jIwwu8L5cLrQebl8MwpHqV9n4hX+AUrAeTdPoHZjo9A3IAAUH4cBjSdCIPP9I04yxODpF8EYL0GRaMikFxnYI3jFjY8whuzMmAzvLIGH7phkvhFaKyiOAj+liLss0rs4udvR+Dcjjdruhhvv9Pgy9UqppVCmlm931evXeQwsst6sXxv9J/Mur+pv5ZvABNYOctsU0BvUrrZq6pk0A9uXVi5vNuJyqKeItO0+jXf8BcSEXG/AiOJAAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/2a90ea8b037b0a3a62da6588ccedca5f/51a8e/1.webp 340w,
-/static/2a90ea8b037b0a3a62da6588ccedca5f/76fa8/1.webp 534w&quot;
-          sizes=&quot;(max-width: 534px) 100vw, 534px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/2a90ea8b037b0a3a62da6588ccedca5f/ad208/1.png 340w,
-/static/2a90ea8b037b0a3a62da6588ccedca5f/e8022/1.png 534w&quot;
-          sizes=&quot;(max-width: 534px) 100vw, 534px&quot;
-          type=&quot;image/png&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/2a90ea8b037b0a3a62da6588ccedca5f/e8022/1.png&quot;
-          alt=&quot;1&quot;
-          title=&quot;&quot;
-          src=&quot;/static/2a90ea8b037b0a3a62da6588ccedca5f/e8022/1.png&quot;
-        /&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
-&lt;p&gt;These are the settings I’d use for creating high quality Mp3s. I’ll write a little bit about the details after.&lt;/p&gt;
-&lt;p&gt;Encoder itself is one of the applications to encode audio to Mp3 files so they take far less storage space. This is called lossy compression. On that note, many people think compression equals a reduction in data and quality let say Mp3, MPEG, DTS and JPEG. Well, this is not always the case. Few examples of lossless compression: ZIP, RAR, TIFF, MLP. But back to the encoder. The encoder uses two different compression methods namely, CBR or VBR (see above settings).&lt;/p&gt;
-&lt;p&gt;CBR stands for constant bit rate, which basically means that you tell the encoder to express every second of audio with a certain number of bits, and it does just that. It will give every single second of audio the same amount of space. There is nothing really bad about this method, it is simply very wasteful and produces bigger file sizes than VBR. Hence, somebody smart came up with another method called VBR.&lt;/p&gt;
-&lt;p&gt;VBR stands for variable bit rate and is the most commonly used encoding type. With VBR the encoder considers every section of audio very carefully and decides how many bits it would take to encode it with the desired level of quality. This means that the bit rate can actually drop to almost nothing in the parts where there is silence, shoot up to high hundreds when the song starts, and peak at the limits of the encoder during particularly delicate passages.&lt;/p&gt;
-&lt;p&gt;Mode in the stereo encoding section, I would leave on joint stereo as it offers better quality. In the joint stereo the encoder can spend the available bits more efficiently than normal stereo mode. There is a technique involved known as&lt;a title=&quot;Joint Frequency Encoding&quot; href=&quot;http://en.wikipedia.org/wiki/Joint_(audio_engineering)&quot; target=&quot;_blank&quot;&gt; joint frequency encoding&lt;/a&gt;, which functions on principle of &lt;a title=&quot;Sound localization&quot; href=&quot;http://en.wikipedia.org/wiki/Sound_localization&quot; target=&quot;_blank&quot;&gt;sound localization&lt;/a&gt;. It stores one channel as the difference from the other as opposed to an entire second audio stream.&lt;/p&gt;
-&lt;p&gt;Quality is the deceiving one. It basically tells the encoder how many shortcuts can it take during the analysis and compression process. When (q=0) the encoder does everything super accurately. When you set it to 9 it will do everything in a more ‘clumsy’ manner. The technology has moved by quite a lot since 1993, so nobody would really use low quality encoding today.&lt;/p&gt;
-&lt;p&gt;CRC stands for a cyclic redundancy check and is an error-detecting code commonly used in digital networks and storage devices. I don’t know what real advantage it will bring to this compression process so leaving it alone, and unchecked should be completely acceptable.&lt;/p&gt;
-&lt;p&gt;If I’m using a VBR then I want the encoder to have access to the widest range of bit rates possible. The minimum should be at 32 and the maximum should be at 320.&lt;/p&gt;
-&lt;p&gt;The output sample rate is not shown in this window but I know it is going to be the original CD sample rate, which again thanks to the Red Book Standards, is said to be 44,100kHz.&lt;/p&gt;
-&lt;p&gt;OK, lets get down to business.&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/c4c1dc131f96cc4799b65dc286e0d6d5/539c8/2.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 979px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 42.94117647058824%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAIAAAC9o5sfAAAACXBIWXMAAAsSAAALEgHS3X78AAABZ0lEQVQoz42NV2+jQBRG5///FysPKJhNKNHKC7jQDDh25F0ggdBLmKGOAwuWnNfk09HR1S26QNbW2l56OZ1+C6osa5qq7I3DccMZ6na7kwxdN27RDd00D1t5s5PX5l4ytwLguAfmiRJ5nvz1xLCcKPKiuJb+sMpOUFVNkecoN1RF4QWe51fSeiUJK3A+264XxWkRxokfxqju6ha3l7HDQ4uHL3/RX8b+c+ymhcsADsdzXtZhUrh+7LhBXjZVe2nw+D39CN7eo+yjSnIYRNl7mJRVNx/3w08Amn4I4zxKijcvtByvgPPnFo/f0H9OBl6YlnWf5CjKyrRAsO5Rg6d71NSogVU7GcMaXz2P4BXUDVWDgeu6QRB4nuf7fpKmWZ6XECIEbdt8fhb/nvdTz3FeLcu2bNtxHMt2Iu81+7eJkhQsFou7a+jHx+WSJAiCpmmO40iSIgjy/n7JsixFUXN1C0PTzMOSYdj/IIrgAUk5DjAAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/c4c1dc131f96cc4799b65dc286e0d6d5/51a8e/2.webp 340w,
-/static/c4c1dc131f96cc4799b65dc286e0d6d5/713b7/2.webp 680w,
-/static/c4c1dc131f96cc4799b65dc286e0d6d5/bc206/2.webp 979w&quot;
-          sizes=&quot;(max-width: 979px) 100vw, 979px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/c4c1dc131f96cc4799b65dc286e0d6d5/ad208/2.png 340w,
-/static/c4c1dc131f96cc4799b65dc286e0d6d5/a5a26/2.png 680w,
-/static/c4c1dc131f96cc4799b65dc286e0d6d5/539c8/2.png 979w&quot;
-          sizes=&quot;(max-width: 979px) 100vw, 979px&quot;
-          type=&quot;image/png&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/c4c1dc131f96cc4799b65dc286e0d6d5/539c8/2.png&quot;
-          alt=&quot;2&quot;
-          title=&quot;&quot;
-          src=&quot;/static/c4c1dc131f96cc4799b65dc286e0d6d5/539c8/2.png&quot;
-        /&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
-&lt;p&gt;Above you can see all loaded tracks in .aiff file format. All that’s left to do is to click convert and all the magic will be done for us.&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/48076eb0f3f2b6696182275033d8b7f8/686e5/3.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 978px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 42.94117647058824%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAIAAAC9o5sfAAAACXBIWXMAAAsSAAALEgHS3X78AAABcklEQVQoz2VRaW+DMAzl//+f7dM6jbNtgFAIgR6oINRCUo7uAFq6js5phTRp1ov1YtmxnyMR6oTLYBmGLgl9n1LqE5+ufSf0PdvGAaVBEIjoaMT3AAEloedKqiqrmmzo+pusyYpiGIYKXn4xNFkHrqqaps9mM9u2HAc7GJsmQibCloCkKApCyHOhjzDopCFHx0EQJVG0CcNlHMeMsaY7X663/nu443YWGKTJ5JUQAhPO52g6NWAmmpZuWq93Bc9zxnkSx1EUfbV9fxU1pxHApTkyQYnneRg79850u1mVnNVVVZQC/FBwXjTdRdRchr+Qnp+fTNO0LAvUKqrqui7spP5oz9dH6mPC/xhE51WU7PMiSbNtsovT/S7jGSs+2x4q4YGu/wH/QDOSO0Rcqqr6eHyHA75p2rbtuu4EpKoqEMwYh4ScsSzLszwXJGcHzqtsWxSlBDoxFnuGtYHyxWIBK4C/hStIgMjIgXoihRAq/l3EfwFMZ9hweEEolQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/48076eb0f3f2b6696182275033d8b7f8/51a8e/3.webp 340w,
-/static/48076eb0f3f2b6696182275033d8b7f8/713b7/3.webp 680w,
-/static/48076eb0f3f2b6696182275033d8b7f8/3b122/3.webp 978w&quot;
-          sizes=&quot;(max-width: 978px) 100vw, 978px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/48076eb0f3f2b6696182275033d8b7f8/ad208/3.png 340w,
-/static/48076eb0f3f2b6696182275033d8b7f8/a5a26/3.png 680w,
-/static/48076eb0f3f2b6696182275033d8b7f8/686e5/3.png 978w&quot;
-          sizes=&quot;(max-width: 978px) 100vw, 978px&quot;
-          type=&quot;image/png&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/48076eb0f3f2b6696182275033d8b7f8/686e5/3.png&quot;
-          alt=&quot;3&quot;
-          title=&quot;&quot;
-          src=&quot;/static/48076eb0f3f2b6696182275033d8b7f8/686e5/3.png&quot;
-        /&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
-&lt;p&gt;The conversion of all the files will take a while. After the conversion finishes, you are done. You’ve just converted losses CD files into a ‘very good’ quality lossy files. OK, but that’s still just talking. So in the&lt;a title=&quot;Listening Tests&quot; href=&quot;https://maciek-tomczak.github.io/maciek.github.io/Audio-Compression-Quality/&quot;&gt; next post&lt;/a&gt; I’ll test how good they actually are when compared.&lt;/p&gt;
 &lt;p&gt;Maciek&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Psycho-Pass AMV]]></title><description><![CDATA[AMV available here https://youtu.be/V35so0_eWDE Video excerpts used from Psycho-Pass Season 1 Music by Celldweller - ShutEmDown]]></description><link>https://maciek-tomczak.github.io/maciek.github.io/Psycho-Pass-AMV/</link><guid isPermaLink="false">https://maciek-tomczak.github.io/maciek.github.io/Psycho-Pass-AMV/</guid><pubDate>Wed, 17 Dec 2014 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;AMV available here &lt;a href=&quot;https://www.youtube.com/watch?v=V35so0_eWDE&quot;&gt;https://youtu.be/V35so0_eWDE&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Video excerpts used from &lt;a href=&quot;https://en.wikipedia.org/wiki/Psycho-Pass&quot;&gt;Psycho-Pass Season 1&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Music by &lt;a href=&quot;https://youtu.be/KfHCHgWusHM&quot;&gt;Celldweller - ShutEmDown&lt;/a&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
